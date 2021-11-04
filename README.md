@@ -49,7 +49,7 @@
 <h2>Nigelrex's recent activity</h2>
 
 
-```
+
 
 <!--RECENT_ACTIVITY:start-->
 1. 📔 Created new repository [Nigelrex/Nigelrex](https://github.com/Nigelrex/Nigelrex)
@@ -63,7 +63,7 @@
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Thursday, November 4th, 2021, 3:26:47 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
-```
+
 
 
 
