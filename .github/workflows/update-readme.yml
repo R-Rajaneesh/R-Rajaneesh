@@ -1,6 +1,9 @@
 name: Update README
 
-on:
+on:  
+  push:
+    branches:
+      - main
   schedule:
     # Runs every first and 8 hrs.
     - cron: '* 8 * * *'
