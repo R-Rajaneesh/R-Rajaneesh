@@ -3,10 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nigelrex&no-bg=trueb&label=Profile%20views&color=0e75b6&style=flat" alt="nigelrex" /> </p>
 
-<p align="left"> <a><img src="https://github-profile-trophy.vercel.app/?username=nigelrex&no-bg=true&no-frame=true" alt="nigelrex" /></a> </p>
-
+[![Update README](https://github.com/Nigelrex/Nigelrex/actions/workflows/update-readme.yml/badge.svg?event=workflow_run)](https://github.com/Nigelrex/Nigelrex/actions/workflows/update-readme.yml)
 <p align="left"> <a href="https://twitter.com/nigelrextaken" target="blank"><img src="https://img.shields.io/twitter/follow/nigelrextaken?logo=twitter&style=for-the-badge&no-bg=true" alt="nigelrextaken" /></a> </p>
 
+---
+
+<p align="left"> <a><img src="https://github-profile-trophy.vercel.app/?username=nigelrex&no-bg=true&no-frame=true" alt="nigelrex" /></a> </p>
+
+---
 
 - 😄 Pronouns: He/Him - They/Them
 
