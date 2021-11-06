@@ -56,16 +56,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Nigelrex/Nigelrex](https://github.com/Nigelrex/Nigelrex)
-2. 📔 Created new repository [Nigelrex/NIgelrex](https://github.com/Nigelrex/NIgelrex)
-3. ❌ Closed PR [#3](https://github.com/Nigelrex/quick.db-map/pull/3) in [Nigelrex/quick.db-map](https://github.com/Nigelrex/quick.db-map)
-4. 👍 Approved [#3](https://github.com/Nigelrex/quick.db-map/pull/3#pullrequestreview-796696653) in [Nigelrex/quick.db-map](https://github.com/Nigelrex/quick.db-map)
-5. ✔️ Closed issue [#2](https://github.com/Nigelrex/quick.db-map/issues/2) in [Nigelrex/quick.db-map](https://github.com/Nigelrex/quick.db-map)
+1. 💪 Opened PR [#225](https://github.com/lorencerri/quick.db/pull/225) in [lorencerri/quick.db](https://github.com/lorencerri/quick.db)
+2. ❌ Closed PR [#223](https://github.com/lorencerri/quick.db/pull/223) in [lorencerri/quick.db](https://github.com/lorencerri/quick.db)
+3. 🎉 Merged PR [#2](https://github.com/Nigelrex/quick.db/pull/2) in [Nigelrex/quick.db](https://github.com/Nigelrex/quick.db)
+4. 💪 Opened PR [#2](https://github.com/Nigelrex/quick.db/pull/2) in [Nigelrex/quick.db](https://github.com/Nigelrex/quick.db)
+5. 📔 Created new repository [Nigelrex/Nigelrex](https://github.com/Nigelrex/Nigelrex)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 5th, 2021, 3:04:54 AM (GMT)
+Last Updated: Saturday, November 6th, 2021, 2:21:00 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
