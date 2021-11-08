@@ -56,16 +56,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [Nigelrex/wynem](https://github.com/Nigelrex/wynem) from [ewanhowell5195/wynem](https://github.com/ewanhowell5195/wynem)
-2. ⭐ Starred [ewanhowell5195/wynem](https://github.com/ewanhowell5195/wynem)
-3. ⭐ Starred [Pierce01/MinecraftLauncher-core](https://github.com/Pierce01/MinecraftLauncher-core)
-4. ⭐ Starred [atenreiro/opensquat](https://github.com/atenreiro/opensquat)
-5. ⭐ Starred [ZeroDiscord/Giveaway](https://github.com/ZeroDiscord/Giveaway)
+1. ⭐ Starred [is-a-dev/register](https://github.com/is-a-dev/register)
+2. ⭐ Starred [js-org/js.org](https://github.com/js-org/js.org)
+3. ⭐ Starred [fransallen/thedev.id](https://github.com/fransallen/thedev.id)
+4. 🔱 Forked [Nigelrex/wynem](https://github.com/Nigelrex/wynem) from [ewanhowell5195/wynem](https://github.com/ewanhowell5195/wynem)
+5. ⭐ Starred [ewanhowell5195/wynem](https://github.com/ewanhowell5195/wynem)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 7th, 2021, 3:08:17 AM (GMT)
+Last Updated: Monday, November 8th, 2021, 2:21:42 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
