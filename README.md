@@ -56,16 +56,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [is-a-dev/register](https://github.com/is-a-dev/register)
-2. ⭐ Starred [js-org/js.org](https://github.com/js-org/js.org)
-3. ⭐ Starred [fransallen/thedev.id](https://github.com/fransallen/thedev.id)
-4. 🔱 Forked [Nigelrex/wynem](https://github.com/Nigelrex/wynem) from [ewanhowell5195/wynem](https://github.com/ewanhowell5195/wynem)
-5. ⭐ Starred [ewanhowell5195/wynem](https://github.com/ewanhowell5195/wynem)
+1. ❌ Closed PR [#225](https://github.com/lorencerri/quick.db/pull/225) in [lorencerri/quick.db](https://github.com/lorencerri/quick.db)
+2. ⭐ Starred [is-a-dev/register](https://github.com/is-a-dev/register)
+3. ⭐ Starred [js-org/js.org](https://github.com/js-org/js.org)
+4. ⭐ Starred [fransallen/thedev.id](https://github.com/fransallen/thedev.id)
+5. 🔱 Forked [Nigelrex/wynem](https://github.com/Nigelrex/wynem) from [ewanhowell5195/wynem](https://github.com/ewanhowell5195/wynem)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 8th, 2021, 3:05:51 AM (GMT)
+Last Updated: Tuesday, November 9th, 2021, 2:21:36 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
