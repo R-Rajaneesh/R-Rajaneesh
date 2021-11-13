@@ -56,16 +56,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [DraftBot-A-Discord-Adventure/DraftBot](https://github.com/DraftBot-A-Discord-Adventure/DraftBot)
-2. ⭐ Starred [microsoft/terminal](https://github.com/microsoft/terminal)
-3. ❌ Closed PR [#225](https://github.com/lorencerri/quick.db/pull/225) in [lorencerri/quick.db](https://github.com/lorencerri/quick.db)
-4. ⭐ Starred [is-a-dev/register](https://github.com/is-a-dev/register)
-5. ⭐ Starred [js-org/js.org](https://github.com/js-org/js.org)
+1. 🎉 Merged PR [#5](https://github.com/Nigelrex/quick.db-map/pull/5) in [Nigelrex/quick.db-map](https://github.com/Nigelrex/quick.db-map)
+2. 👍 Approved [#5](https://github.com/Nigelrex/quick.db-map/pull/5#pullrequestreview-804895456) in [Nigelrex/quick.db-map](https://github.com/Nigelrex/quick.db-map)
+3. ❌ Closed PR [#4](https://github.com/Nigelrex/quick.db-map/pull/4) in [Nigelrex/quick.db-map](https://github.com/Nigelrex/quick.db-map)
+4. ⭐ Starred [DevSnowflake/quick.db](https://github.com/DevSnowflake/quick.db)
+5. ⭐ Starred [DevSnowflake/quick.db-prototypes](https://github.com/DevSnowflake/quick.db-prototypes)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 12th, 2021, 3:06:41 AM (GMT)
+Last Updated: Saturday, November 13th, 2021, 2:21:54 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
