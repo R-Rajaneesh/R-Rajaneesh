@@ -56,16 +56,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#5](https://github.com/Nigelrex/quick.db-map/pull/5) in [Nigelrex/quick.db-map](https://github.com/Nigelrex/quick.db-map)
-2. 👍 Approved [#5](https://github.com/Nigelrex/quick.db-map/pull/5#pullrequestreview-804895456) in [Nigelrex/quick.db-map](https://github.com/Nigelrex/quick.db-map)
-3. ❌ Closed PR [#4](https://github.com/Nigelrex/quick.db-map/pull/4) in [Nigelrex/quick.db-map](https://github.com/Nigelrex/quick.db-map)
-4. ⭐ Starred [DevSnowflake/quick.db](https://github.com/DevSnowflake/quick.db)
-5. ⭐ Starred [DevSnowflake/quick.db-prototypes](https://github.com/DevSnowflake/quick.db-prototypes)
+1. ⭐ Starred [Tomato6966/discord-leveling-system-ranking-system](https://github.com/Tomato6966/discord-leveling-system-ranking-system)
+2. ⭐ Starred [platservices-xyz/slash-commands-template](https://github.com/platservices-xyz/slash-commands-template)
+3. 🎉 Merged PR [#5](https://github.com/Nigelrex/quick.db-map/pull/5) in [Nigelrex/quick.db-map](https://github.com/Nigelrex/quick.db-map)
+4. 👍 Approved [#5](https://github.com/Nigelrex/quick.db-map/pull/5#pullrequestreview-804895456) in [Nigelrex/quick.db-map](https://github.com/Nigelrex/quick.db-map)
+5. ❌ Closed PR [#4](https://github.com/Nigelrex/quick.db-map/pull/4) in [Nigelrex/quick.db-map](https://github.com/Nigelrex/quick.db-map)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 13th, 2021, 3:03:31 AM (GMT)
+Last Updated: Sunday, November 14th, 2021, 2:22:57 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
