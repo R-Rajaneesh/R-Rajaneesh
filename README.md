@@ -56,16 +56,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#6](https://github.com/Nigelrex/quick.db-map/pull/6) in [Nigelrex/quick.db-map](https://github.com/Nigelrex/quick.db-map)
-2. 👍 Approved [#6](https://github.com/Nigelrex/quick.db-map/pull/6#pullrequestreview-809789957) in [Nigelrex/quick.db-map](https://github.com/Nigelrex/quick.db-map)
-3. 💪 Opened PR [#239](https://github.com/fransallen/thedev.id/pull/239) in [fransallen/thedev.id](https://github.com/fransallen/thedev.id)
-4. 🔱 Forked [Nigelrex/thedev.id](https://github.com/Nigelrex/thedev.id) from [fransallen/thedev.id](https://github.com/fransallen/thedev.id)
-5. ⭐ Starred [nodgear/Awesome](https://github.com/nodgear/Awesome)
+1. ✔️ Closed issue [#7](https://github.com/Nigelrex/quick.db-map/issues/7) in [Nigelrex/quick.db-map](https://github.com/Nigelrex/quick.db-map)
+2. 🎉 Merged PR [#8](https://github.com/Nigelrex/quick.db-map/pull/8) in [Nigelrex/quick.db-map](https://github.com/Nigelrex/quick.db-map)
+3. 🎉 Merged PR [#6](https://github.com/Nigelrex/quick.db-map/pull/6) in [Nigelrex/quick.db-map](https://github.com/Nigelrex/quick.db-map)
+4. 👍 Approved [#6](https://github.com/Nigelrex/quick.db-map/pull/6#pullrequestreview-809789957) in [Nigelrex/quick.db-map](https://github.com/Nigelrex/quick.db-map)
+5. 💪 Opened PR [#239](https://github.com/fransallen/thedev.id/pull/239) in [fransallen/thedev.id](https://github.com/fransallen/thedev.id)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 21st, 2021, 3:08:35 AM (GMT)
+Last Updated: Monday, November 22nd, 2021, 2:23:23 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
