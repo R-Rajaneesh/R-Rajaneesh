@@ -56,16 +56,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#7](https://github.com/Nigelrex/quick.db-map/issues/7) in [Nigelrex/quick.db-map](https://github.com/Nigelrex/quick.db-map)
-2. 🎉 Merged PR [#8](https://github.com/Nigelrex/quick.db-map/pull/8) in [Nigelrex/quick.db-map](https://github.com/Nigelrex/quick.db-map)
-3. 🎉 Merged PR [#6](https://github.com/Nigelrex/quick.db-map/pull/6) in [Nigelrex/quick.db-map](https://github.com/Nigelrex/quick.db-map)
-4. 👍 Approved [#6](https://github.com/Nigelrex/quick.db-map/pull/6#pullrequestreview-809789957) in [Nigelrex/quick.db-map](https://github.com/Nigelrex/quick.db-map)
-5. 💪 Opened PR [#239](https://github.com/fransallen/thedev.id/pull/239) in [fransallen/thedev.id](https://github.com/fransallen/thedev.id)
+1. 💪 Opened PR [#7026](https://github.com/discordjs/discord.js/pull/7026) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
+2. 🔱 Forked [Nigelrex/discord.js](https://github.com/Nigelrex/discord.js) from [discordjs/discord.js](https://github.com/discordjs/discord.js)
+3. 💪 Opened PR [#1](https://github.com/Nigelrex/discord.js/pull/1) in [Nigelrex/discord.js](https://github.com/Nigelrex/discord.js)
+4. ⭐ Starred [HurricanoBot/Hurricano](https://github.com/HurricanoBot/Hurricano)
+5. ✔️ Closed issue [#7](https://github.com/Nigelrex/quick.db-map/issues/7) in [Nigelrex/quick.db-map](https://github.com/Nigelrex/quick.db-map)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 24th, 2021, 3:06:48 AM (GMT)
+Last Updated: Thursday, November 25th, 2021, 2:23:43 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
