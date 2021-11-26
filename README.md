@@ -56,16 +56,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#7026](https://github.com/discordjs/discord.js/pull/7026) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
-2. 🔱 Forked [Nigelrex/discord.js](https://github.com/Nigelrex/discord.js) from [discordjs/discord.js](https://github.com/discordjs/discord.js)
-3. 💪 Opened PR [#1](https://github.com/Nigelrex/discord.js/pull/1) in [Nigelrex/discord.js](https://github.com/Nigelrex/discord.js)
-4. ⭐ Starred [HurricanoBot/Hurricano](https://github.com/HurricanoBot/Hurricano)
-5. ✔️ Closed issue [#7](https://github.com/Nigelrex/quick.db-map/issues/7) in [Nigelrex/quick.db-map](https://github.com/Nigelrex/quick.db-map)
+1. ⭐ Starred [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+2. 💪 Opened PR [#7026](https://github.com/discordjs/discord.js/pull/7026) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
+3. 🔱 Forked [Nigelrex/discord.js](https://github.com/Nigelrex/discord.js) from [discordjs/discord.js](https://github.com/discordjs/discord.js)
+4. 💪 Opened PR [#1](https://github.com/Nigelrex/discord.js/pull/1) in [Nigelrex/discord.js](https://github.com/Nigelrex/discord.js)
+5. ⭐ Starred [HurricanoBot/Hurricano](https://github.com/HurricanoBot/Hurricano)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 25th, 2021, 3:09:42 AM (GMT)
+Last Updated: Friday, November 26th, 2021, 2:22:27 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
