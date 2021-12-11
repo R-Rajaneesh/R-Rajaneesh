@@ -56,16 +56,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [BalintCsala/VanillaShaderBuildPipeline](https://github.com/BalintCsala/VanillaShaderBuildPipeline)
-2. ⭐ Starred [Godlander/vpp](https://github.com/Godlander/vpp)
-3. ⭐ Starred [nodebowl/nodebowl](https://github.com/nodebowl/nodebowl)
-4. ⭐ Starred [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
-5. 💪 Opened PR [#7026](https://github.com/discordjs/discord.js/pull/7026) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
+1. ⭐ Starred [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs)
+2. ⭐ Starred [chocolatey/choco](https://github.com/chocolatey/choco)
+3. ⭐ Starred [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
+4. ⭐ Starred [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome)
+5. ⭐ Starred [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 10th, 2021, 3:11:20 AM (GMT)
+Last Updated: Saturday, December 11th, 2021, 2:26:49 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
