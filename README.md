@@ -56,16 +56,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-2. ⭐ Starred [liyasthomas/colorbook](https://github.com/liyasthomas/colorbook)
-3. ⭐ Starred [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs)
-4. ⭐ Starred [chocolatey/choco](https://github.com/chocolatey/choco)
-5. ⭐ Starred [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
+1. ⭐ Starred [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
+2. ⭐ Starred [weiaicunzai/awesome-image-classification](https://github.com/weiaicunzai/awesome-image-classification)
+3. ⭐ Starred [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+4. ⭐ Starred [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines)
+5. ⭐ Starred [mezod/awesome-indie](https://github.com/mezod/awesome-indie)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 12th, 2021, 3:14:53 AM (GMT)
+Last Updated: Monday, December 13th, 2021, 2:26:40 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
