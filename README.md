@@ -56,16 +56,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
-2. ⭐ Starred [weiaicunzai/awesome-image-classification](https://github.com/weiaicunzai/awesome-image-classification)
-3. ⭐ Starred [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-4. ⭐ Starred [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines)
-5. ⭐ Starred [mezod/awesome-indie](https://github.com/mezod/awesome-indie)
+1. ⭐ Starred [fastify/fastify](https://github.com/fastify/fastify)
+2. ⭐ Starred [microsoft/vscode](https://github.com/microsoft/vscode)
+3. ⭐ Starred [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
+4. ⭐ Starred [weiaicunzai/awesome-image-classification](https://github.com/weiaicunzai/awesome-image-classification)
+5. ⭐ Starred [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 13th, 2021, 2:50:52 AM (GMT)
+Last Updated: Monday, December 13th, 2021, 2:58:42 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
