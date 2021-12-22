@@ -56,16 +56,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [FireDiscordBot/bot](https://github.com/FireDiscordBot/bot)
-2. ⭐ Starred [Enroute-Transport/Aometry](https://github.com/Enroute-Transport/Aometry)
-3. ⭐ Starred [Yahweasel/craig](https://github.com/Yahweasel/craig)
-4. ⭐ Starred [fastify/fastify](https://github.com/fastify/fastify)
-5. ⭐ Starred [microsoft/vscode](https://github.com/microsoft/vscode)
+1. ⭐ Starred [matsilva/installfont](https://github.com/matsilva/installfont)
+2. ⭐ Starred [BrainJS/brain.js](https://github.com/BrainJS/brain.js)
+3. ⭐ Starred [FireDiscordBot/bot](https://github.com/FireDiscordBot/bot)
+4. ⭐ Starred [Enroute-Transport/Aometry](https://github.com/Enroute-Transport/Aometry)
+5. ⭐ Starred [Yahweasel/craig](https://github.com/Yahweasel/craig)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 21st, 2021, 3:12:05 AM (GMT)
+Last Updated: Wednesday, December 22nd, 2021, 2:30:59 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
