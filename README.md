@@ -56,16 +56,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [RishiMenon2004/Nutopia](https://github.com/RishiMenon2004/Nutopia)
-2. ⭐ Starred [sindresorhus/boxen](https://github.com/sindresorhus/boxen)
-3. ⭐ Starred [matsilva/installfont](https://github.com/matsilva/installfont)
-4. ⭐ Starred [BrainJS/brain.js](https://github.com/BrainJS/brain.js)
-5. ⭐ Starred [FireDiscordBot/bot](https://github.com/FireDiscordBot/bot)
+1. ⭐ Starred [ChavaScript/chavascript](https://github.com/ChavaScript/chavascript)
+2. ⭐ Starred [RishiMenon2004/Nutopia](https://github.com/RishiMenon2004/Nutopia)
+3. ⭐ Starred [sindresorhus/boxen](https://github.com/sindresorhus/boxen)
+4. ⭐ Starred [matsilva/installfont](https://github.com/matsilva/installfont)
+5. ⭐ Starred [BrainJS/brain.js](https://github.com/BrainJS/brain.js)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 27th, 2021, 3:06:38 AM (GMT)
+Last Updated: Tuesday, December 28th, 2021, 2:28:57 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
