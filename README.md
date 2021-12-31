@@ -56,16 +56,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Androz2091/androz2091-cors-anywhere](https://github.com/Androz2091/androz2091-cors-anywhere)
-2. 🔱 Forked [Nigelrex/learn-tfjs](https://github.com/Nigelrex/learn-tfjs) from [GantMan/learn-tfjs](https://github.com/GantMan/learn-tfjs)
-3. ⭐ Starred [GantMan/learn-tfjs](https://github.com/GantMan/learn-tfjs)
-4. ⭐ Starred [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint)
-5. ⭐ Starred [ChavaScript/chavascript](https://github.com/ChavaScript/chavascript)
+1. ⭐ Starred [meew0/discord-bot-best-practices](https://github.com/meew0/discord-bot-best-practices)
+2. ⭐ Starred [JscramblerBlog/browser-demo](https://github.com/JscramblerBlog/browser-demo)
+3. ⭐ Starred [Androz2091/androz2091-cors-anywhere](https://github.com/Androz2091/androz2091-cors-anywhere)
+4. 🔱 Forked [Nigelrex/learn-tfjs](https://github.com/Nigelrex/learn-tfjs) from [GantMan/learn-tfjs](https://github.com/GantMan/learn-tfjs)
+5. ⭐ Starred [GantMan/learn-tfjs](https://github.com/GantMan/learn-tfjs)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 30th, 2021, 2:59:53 AM (GMT)
+Last Updated: Friday, December 31st, 2021, 2:30:45 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
