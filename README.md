@@ -56,16 +56,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [adamschwartz/chrome-tabs](https://github.com/adamschwartz/chrome-tabs)
-2. ⭐ Starred [meew0/discord-bot-best-practices](https://github.com/meew0/discord-bot-best-practices)
-3. ⭐ Starred [JscramblerBlog/browser-demo](https://github.com/JscramblerBlog/browser-demo)
-4. ⭐ Starred [Androz2091/androz2091-cors-anywhere](https://github.com/Androz2091/androz2091-cors-anywhere)
-5. 🔱 Forked [Nigelrex/learn-tfjs](https://github.com/Nigelrex/learn-tfjs) from [GantMan/learn-tfjs](https://github.com/GantMan/learn-tfjs)
+1. ⭐ Starred [face-hh/discord.js-tutorials](https://github.com/face-hh/discord.js-tutorials)
+2. 🔱 Forked [Nigelrex/builders](https://github.com/Nigelrex/builders) from [discordjs/builders](https://github.com/discordjs/builders)
+3. ⭐ Starred [adamschwartz/chrome-tabs](https://github.com/adamschwartz/chrome-tabs)
+4. ⭐ Starred [meew0/discord-bot-best-practices](https://github.com/meew0/discord-bot-best-practices)
+5. ⭐ Starred [JscramblerBlog/browser-demo](https://github.com/JscramblerBlog/browser-demo)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 1st, 2022, 2:59:39 AM (GMT)
+Last Updated: Sunday, January 2nd, 2022, 2:31:15 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
