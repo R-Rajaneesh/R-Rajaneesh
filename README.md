@@ -56,16 +56,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [MihirBhave/File_Automation](https://github.com/MihirBhave/File_Automation)
-2. ⭐ Starred [NamVr/DiscordBot-Template](https://github.com/NamVr/DiscordBot-Template)
-3. ⭐ Starred [face-hh/discord.js-tutorials](https://github.com/face-hh/discord.js-tutorials)
-4. 🔱 Forked [Nigelrex/builders](https://github.com/Nigelrex/builders) from [discordjs/builders](https://github.com/discordjs/builders)
-5. ⭐ Starred [adamschwartz/chrome-tabs](https://github.com/adamschwartz/chrome-tabs)
+1. ⭐ Starred [tuhdo/os01](https://github.com/tuhdo/os01)
+2. ⭐ Starred [realabbas/big-companies-interview-questions](https://github.com/realabbas/big-companies-interview-questions)
+3. ⭐ Starred [ehmicky/cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide)
+4. ⭐ Starred [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket)
+5. ⭐ Starred [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 5th, 2022, 3:13:43 AM (GMT)
+Last Updated: Thursday, January 6th, 2022, 2:35:01 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
