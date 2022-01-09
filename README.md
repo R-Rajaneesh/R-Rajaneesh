@@ -56,16 +56,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tuhdo/os01](https://github.com/tuhdo/os01)
-2. ⭐ Starred [realabbas/big-companies-interview-questions](https://github.com/realabbas/big-companies-interview-questions)
-3. ⭐ Starred [ehmicky/cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide)
-4. ⭐ Starred [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket)
-5. ⭐ Starred [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university)
+1. ⭐ Starred [kdn251/interviews](https://github.com/kdn251/interviews)
+2. ⭐ Starred [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+3. ⭐ Starred [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy)
+4. ⭐ Starred [tuhdo/os01](https://github.com/tuhdo/os01)
+5. ⭐ Starred [realabbas/big-companies-interview-questions](https://github.com/realabbas/big-companies-interview-questions)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 8th, 2022, 2:59:40 AM (GMT)
+Last Updated: Sunday, January 9th, 2022, 2:32:40 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
