@@ -56,16 +56,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Discord-Datamining/Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining)
-2. ⭐ Starred [CosmosOS/Cosmos](https://github.com/CosmosOS/Cosmos)
-3. ⭐ Starred [pritamzope/OS](https://github.com/pritamzope/OS)
-4. 👍 Approved [#4](https://github.com/Nigelrex/nigelrex.github.io/pull/4#pullrequestreview-853507174) in [Nigelrex/nigelrex.github.io](https://github.com/Nigelrex/nigelrex.github.io)
-5. ⭐ Starred [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
+1. ⭐ Starred [nikolaischunk/discord-phishing-links](https://github.com/nikolaischunk/discord-phishing-links)
+2. ⭐ Starred [mitchellkrogza/Phishing.Database](https://github.com/mitchellkrogza/Phishing.Database)
+3. ⭐ Starred [Discord-Datamining/Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining)
+4. ⭐ Starred [CosmosOS/Cosmos](https://github.com/CosmosOS/Cosmos)
+5. ⭐ Starred [pritamzope/OS](https://github.com/pritamzope/OS)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 22nd, 2022, 3:00:13 AM (GMT)
+Last Updated: Sunday, January 23rd, 2022, 2:20:45 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
