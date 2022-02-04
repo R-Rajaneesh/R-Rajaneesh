@@ -56,16 +56,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Nigelrex/Datarex](https://github.com/Nigelrex/Datarex)
-2. ⭐ Starred [nikolaischunk/discord-phishing-links](https://github.com/nikolaischunk/discord-phishing-links)
-3. ⭐ Starred [mitchellkrogza/Phishing.Database](https://github.com/mitchellkrogza/Phishing.Database)
-4. ⭐ Starred [Discord-Datamining/Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining)
-5. ⭐ Starred [CosmosOS/Cosmos](https://github.com/CosmosOS/Cosmos)
+1. ⭐ Starred [local-npm/local-npm](https://github.com/local-npm/local-npm)
+2. 📔 Created new repository [Nigelrex/Datarex](https://github.com/Nigelrex/Datarex)
+3. ⭐ Starred [nikolaischunk/discord-phishing-links](https://github.com/nikolaischunk/discord-phishing-links)
+4. ⭐ Starred [mitchellkrogza/Phishing.Database](https://github.com/mitchellkrogza/Phishing.Database)
+5. ⭐ Starred [Discord-Datamining/Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 3rd, 2022, 3:15:17 AM (GMT)
+Last Updated: Friday, February 4th, 2022, 2:09:31 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
