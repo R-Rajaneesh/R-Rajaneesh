@@ -56,16 +56,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [DarkBoy-js/quick-online](https://github.com/DarkBoy-js/quick-online)
-2. ⭐ Starred [kevinSuttle/html-meta-tags](https://github.com/kevinSuttle/html-meta-tags)
-3. ⭐ Starred [local-npm/local-npm](https://github.com/local-npm/local-npm)
-4. 📔 Created new repository [Nigelrex/Datarex](https://github.com/Nigelrex/Datarex)
-5. ⭐ Starred [nikolaischunk/discord-phishing-links](https://github.com/nikolaischunk/discord-phishing-links)
+1. ⭐ Starred [facebook/docusaurus](https://github.com/facebook/docusaurus)
+2. ⭐ Starred [DarkBoy-js/quick-online](https://github.com/DarkBoy-js/quick-online)
+3. ⭐ Starred [kevinSuttle/html-meta-tags](https://github.com/kevinSuttle/html-meta-tags)
+4. ⭐ Starred [local-npm/local-npm](https://github.com/local-npm/local-npm)
+5. 📔 Created new repository [Nigelrex/Datarex](https://github.com/Nigelrex/Datarex)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 7th, 2022, 2:59:15 AM (GMT)
+Last Updated: Tuesday, February 8th, 2022, 2:23:32 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
