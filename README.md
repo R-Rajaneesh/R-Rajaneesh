@@ -56,16 +56,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [facebook/docusaurus](https://github.com/facebook/docusaurus)
-2. ⭐ Starred [DarkBoy-js/quick-online](https://github.com/DarkBoy-js/quick-online)
-3. ⭐ Starred [kevinSuttle/html-meta-tags](https://github.com/kevinSuttle/html-meta-tags)
-4. ⭐ Starred [local-npm/local-npm](https://github.com/local-npm/local-npm)
-5. 📔 Created new repository [Nigelrex/Datarex](https://github.com/Nigelrex/Datarex)
+1. ⭐ Starred [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel)
+2. ❌ Closed PR [#2](https://github.com/Nigelrex/Datarex/pull/2) in [Nigelrex/Datarex](https://github.com/Nigelrex/Datarex)
+3. ⭐ Starred [facebook/docusaurus](https://github.com/facebook/docusaurus)
+4. ⭐ Starred [DarkBoy-js/quick-online](https://github.com/DarkBoy-js/quick-online)
+5. ⭐ Starred [kevinSuttle/html-meta-tags](https://github.com/kevinSuttle/html-meta-tags)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 9th, 2022, 3:08:59 AM (GMT)
+Last Updated: Thursday, February 10th, 2022, 2:21:16 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
