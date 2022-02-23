@@ -56,16 +56,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [yoav-lavi/melody](https://github.com/yoav-lavi/melody)
-2. ⭐ Starred [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel)
-3. ❌ Closed PR [#2](https://github.com/Nigelrex/Datarex/pull/2) in [Nigelrex/Datarex](https://github.com/Nigelrex/Datarex)
-4. ⭐ Starred [facebook/docusaurus](https://github.com/facebook/docusaurus)
-5. ⭐ Starred [DarkBoy-js/quick-online](https://github.com/DarkBoy-js/quick-online)
+1. ⭐ Starred [aarongrider/vision-camera-ocr](https://github.com/aarongrider/vision-camera-ocr)
+2. ⭐ Starred [yoav-lavi/melody](https://github.com/yoav-lavi/melody)
+3. ⭐ Starred [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel)
+4. ❌ Closed PR [#2](https://github.com/Nigelrex/Datarex/pull/2) in [Nigelrex/Datarex](https://github.com/Nigelrex/Datarex)
+5. ⭐ Starred [facebook/docusaurus](https://github.com/facebook/docusaurus)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 22nd, 2022, 2:59:14 AM (GMT)
+Last Updated: Wednesday, February 23rd, 2022, 2:27:45 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
