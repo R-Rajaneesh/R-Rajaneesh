@@ -56,16 +56,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [atom/atom](https://github.com/atom/atom)
-2. ⭐ Starred [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
-3. 🔱 Forked [Nigelrex/discord.js](https://github.com/Nigelrex/discord.js) from [discordjs/discord.js](https://github.com/discordjs/discord.js)
-4. ⭐ Starred [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop)
-5. 📔 Created new repository [Nigelrex/dotfiles](https://github.com/Nigelrex/dotfiles)
+1. ✌️ Released [Minecraft Auto Bridger - v1.0.0](https://github.com/Nigelrex/Nigelrex/releases/tag/v1.0.0) in [Nigelrex/Nigelrex](https://github.com/Nigelrex/Nigelrex)
+2. ⭐ Starred [atom/atom](https://github.com/atom/atom)
+3. ⭐ Starred [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
+4. 🔱 Forked [Nigelrex/discord.js](https://github.com/Nigelrex/discord.js) from [discordjs/discord.js](https://github.com/discordjs/discord.js)
+5. ⭐ Starred [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 11th, 2022, 3:03:22 AM (GMT)
+Last Updated: Tuesday, April 12th, 2022, 2:55:35 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
