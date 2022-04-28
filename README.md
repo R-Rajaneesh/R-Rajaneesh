@@ -56,16 +56,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#239](https://github.com/fransallen/thedev.id/pull/239#issuecomment-1059701049) in [fransallen/thedev.id](https://github.com/fransallen/thedev.id)
-2. ❌ Closed PR [#55](https://github.com/Nigelrex/Meeting-Scheduler/pull/55) in [Nigelrex/Meeting-Scheduler](https://github.com/Nigelrex/Meeting-Scheduler)
-3. ⭐ Starred [aarongrider/vision-camera-ocr](https://github.com/aarongrider/vision-camera-ocr)
-4. ⭐ Starred [yoav-lavi/melody](https://github.com/yoav-lavi/melody)
-5. ⭐ Starred [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel)
+1. ⭐ Starred [KK-Designs/Console-Embed](https://github.com/KK-Designs/Console-Embed)
+2. ⭐ Starred [nuxt/framework](https://github.com/nuxt/framework)
+3. ⭐ Starred [mde/ejs](https://github.com/mde/ejs)
+4. ❗️ Opened issue [#146](https://github.com/soyuka/pidusage/issues/146) in [soyuka/pidusage](https://github.com/soyuka/pidusage)
+5. ✌️ Released [Minecraft Auto Bridger - v1.0.0](https://github.com/Nigelrex/Nigelrex/releases/tag/v1.0.0) in [Nigelrex/Nigelrex](https://github.com/Nigelrex/Nigelrex)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 11th, 2022, 3:17:35 AM (GMT)
+Last Updated: Thursday, April 28th, 2022, 4:03:19 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
