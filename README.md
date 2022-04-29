@@ -56,16 +56,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [KK-Designs/Console-Embed](https://github.com/KK-Designs/Console-Embed)
-2. ⭐ Starred [nuxt/framework](https://github.com/nuxt/framework)
-3. ⭐ Starred [mde/ejs](https://github.com/mde/ejs)
-4. ❗️ Opened issue [#146](https://github.com/soyuka/pidusage/issues/146) in [soyuka/pidusage](https://github.com/soyuka/pidusage)
-5. ✌️ Released [Minecraft Auto Bridger - v1.0.0](https://github.com/Nigelrex/Nigelrex/releases/tag/v1.0.0) in [Nigelrex/Nigelrex](https://github.com/Nigelrex/Nigelrex)
+1. 🎉 Merged PR [#3](https://github.com/Nigelrex/Nigelrex/pull/3) in [Nigelrex/Nigelrex](https://github.com/Nigelrex/Nigelrex)
+2. ⭐ Starred [KK-Designs/Console-Embed](https://github.com/KK-Designs/Console-Embed)
+3. ⭐ Starred [nuxt/framework](https://github.com/nuxt/framework)
+4. ⭐ Starred [mde/ejs](https://github.com/mde/ejs)
+5. ❗️ Opened issue [#146](https://github.com/soyuka/pidusage/issues/146) in [soyuka/pidusage](https://github.com/soyuka/pidusage)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 28th, 2022, 4:03:19 AM (GMT)
+Last Updated: Friday, April 29th, 2022, 3:20:22 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
