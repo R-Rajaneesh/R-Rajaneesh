@@ -56,16 +56,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nocodb/nocodb](https://github.com/nocodb/nocodb)
-2. ⭐ Starred [TheAnnoying/Teoch-Source](https://github.com/TheAnnoying/Teoch-Source)
-3. 🔱 Forked [Nigelrex/xml-js](https://github.com/Nigelrex/xml-js) from [nashwaan/xml-js](https://github.com/nashwaan/xml-js)
-4. 🎉 Merged PR [#3](https://github.com/Nigelrex/Nigelrex/pull/3) in [Nigelrex/Nigelrex](https://github.com/Nigelrex/Nigelrex)
-5. ⭐ Starred [KK-Designs/Console-Embed](https://github.com/KK-Designs/Console-Embed)
+1. ⭐ Starred [ttezel/nn](https://github.com/ttezel/nn)
+2. ⭐ Starred [nocodb/nocodb](https://github.com/nocodb/nocodb)
+3. ⭐ Starred [TheAnnoying/Teoch-Source](https://github.com/TheAnnoying/Teoch-Source)
+4. 🔱 Forked [Nigelrex/xml-js](https://github.com/Nigelrex/xml-js) from [nashwaan/xml-js](https://github.com/nashwaan/xml-js)
+5. 🎉 Merged PR [#3](https://github.com/Nigelrex/Nigelrex/pull/3) in [Nigelrex/Nigelrex](https://github.com/Nigelrex/Nigelrex)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 20th, 2022, 3:09:31 AM (GMT)
+Last Updated: Saturday, May 21st, 2022, 2:45:46 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
