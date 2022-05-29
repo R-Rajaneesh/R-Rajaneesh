@@ -56,16 +56,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Nigelrex/materialistic-dark](https://github.com/Nigelrex/materialistic-dark)
-2. 🔱 Forked [Nigelrex/prettier-vscode](https://github.com/Nigelrex/prettier-vscode) from [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode)
-3. ❗️ Opened issue [#896](https://github.com/expressjs/session/issues/896) in [expressjs/session](https://github.com/expressjs/session)
-4. 📔 Created new repository [Nigelrex/condour](https://github.com/Nigelrex/condour)
-5. ⭐ Starred [SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
+1. ⭐ Starred [bmyjacks/adlists](https://github.com/bmyjacks/adlists)
+2. ⭐ Starred [List-KR/List-KR](https://github.com/List-KR/List-KR)
+3. ⭐ Starred [ftpmorph/ftprivacy](https://github.com/ftpmorph/ftprivacy)
+4. ⭐ Starred [mkb2091/blockconvert](https://github.com/mkb2091/blockconvert)
+5. ⭐ Starred [realodix/AdBlockID](https://github.com/realodix/AdBlockID)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 28th, 2022, 3:04:29 AM (GMT)
+Last Updated: Sunday, May 29th, 2022, 3:22:03 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
