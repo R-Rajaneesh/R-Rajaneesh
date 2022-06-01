@@ -56,16 +56,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [aemkei/jsfuck](https://github.com/aemkei/jsfuck)
-2. ⭐ Starred [bmyjacks/adlists](https://github.com/bmyjacks/adlists)
-3. ⭐ Starred [List-KR/List-KR](https://github.com/List-KR/List-KR)
-4. ⭐ Starred [ftpmorph/ftprivacy](https://github.com/ftpmorph/ftprivacy)
-5. ⭐ Starred [mkb2091/blockconvert](https://github.com/mkb2091/blockconvert)
+1. ⭐ Starred [andrewplummer/Sugar](https://github.com/andrewplummer/Sugar)
+2. ⭐ Starred [LebsterFace/LebJS](https://github.com/LebsterFace/LebJS)
+3. ⭐ Starred [aemkei/jsfuck](https://github.com/aemkei/jsfuck)
+4. ⭐ Starred [bmyjacks/adlists](https://github.com/bmyjacks/adlists)
+5. ⭐ Starred [List-KR/List-KR](https://github.com/List-KR/List-KR)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 31st, 2022, 3:17:52 AM (GMT)
+Last Updated: Wednesday, June 1st, 2022, 3:57:10 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
