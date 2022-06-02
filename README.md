@@ -56,16 +56,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [andrewplummer/Sugar](https://github.com/andrewplummer/Sugar)
-2. ⭐ Starred [LebsterFace/LebJS](https://github.com/LebsterFace/LebJS)
-3. ⭐ Starred [aemkei/jsfuck](https://github.com/aemkei/jsfuck)
-4. ⭐ Starred [bmyjacks/adlists](https://github.com/bmyjacks/adlists)
-5. ⭐ Starred [List-KR/List-KR](https://github.com/List-KR/List-KR)
+1. ⭐ Starred [alphacep/vosk-api](https://github.com/alphacep/vosk-api)
+2. ⭐ Starred [andrewplummer/Sugar](https://github.com/andrewplummer/Sugar)
+3. ⭐ Starred [LebsterFace/LebJS](https://github.com/LebsterFace/LebJS)
+4. ⭐ Starred [aemkei/jsfuck](https://github.com/aemkei/jsfuck)
+5. ⭐ Starred [bmyjacks/adlists](https://github.com/bmyjacks/adlists)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 1st, 2022, 3:57:10 AM (GMT)
+Last Updated: Thursday, June 2nd, 2022, 3:40:11 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
