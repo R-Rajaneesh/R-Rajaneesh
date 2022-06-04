@@ -18,11 +18,7 @@
 
 - 🌱 I’m currently learning **Node.js, JS, HTML, CSS, AHK, PYTHON**
 
-- 📫 My Website [My Website](https://nigelrex.netlify.app) [![Netlify Status](https://api.netlify.com/api/v1/badges/5865f615-3f81-44e3-8355-fa9b755b9877/deploy-status)](https://nigelrex.netlify.com)
-
-- 👨‍💻 All of my projects are available at [My projects](https://nigelrex.netlify.app/public/pages/products.html)
-
-- 📝 I regularly write articles on [My Blog](https://nigelrex.netlify.app/public/pages/blog.html)
+- 📫 My Website [My Website](https://nigelrex.netlify.app)
 
 - 💬 Ask me about **Node.js, JS**
 
