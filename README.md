@@ -52,16 +52,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [alphacep/vosk-api](https://github.com/alphacep/vosk-api)
-2. ⭐ Starred [andrewplummer/Sugar](https://github.com/andrewplummer/Sugar)
-3. ⭐ Starred [LebsterFace/LebJS](https://github.com/LebsterFace/LebJS)
-4. ⭐ Starred [aemkei/jsfuck](https://github.com/aemkei/jsfuck)
-5. ⭐ Starred [bmyjacks/adlists](https://github.com/bmyjacks/adlists)
+1. 📔 Created new repository [Nigelrex/twemoji](https://github.com/Nigelrex/twemoji)
+2. ⭐ Starred [developStorm/simple-badges](https://github.com/developStorm/simple-badges)
+3. ⭐ Starred [alphacep/vosk-api](https://github.com/alphacep/vosk-api)
+4. ⭐ Starred [andrewplummer/Sugar](https://github.com/andrewplummer/Sugar)
+5. ⭐ Starred [LebsterFace/LebJS](https://github.com/LebsterFace/LebJS)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 4th, 2022, 3:03:47 AM (GMT)
+Last Updated: Sunday, June 5th, 2022, 3:04:49 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
