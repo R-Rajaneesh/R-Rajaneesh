@@ -52,16 +52,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#4](https://github.com/Nigelrex/Nigelrex/pull/4) in [Nigelrex/Nigelrex](https://github.com/Nigelrex/Nigelrex)
-2. ⬆️ Pushed 2 commit(s) to [Nigelrex/Nigelrex](https://github.com/Nigelrex/Nigelrex)
-3. ⬆️ Pushed 2 commit(s) to [Nigelrex/Nigelrex](https://github.com/Nigelrex/Nigelrex)
-4. 🎉 Merged PR [#5](https://github.com/Nigelrex/Nigelrex/pull/5) in [Nigelrex/Nigelrex](https://github.com/Nigelrex/Nigelrex)
-5. ⭐ Starred [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)
+1. ⭐ Starred [ossu/computer-science](https://github.com/ossu/computer-science)
+2. ⭐ Starred [requarks/connect-loki](https://github.com/requarks/connect-loki)
+3. ⭐ Starred [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+4. ⭐ Starred [skills/introduction-to-github](https://github.com/skills/introduction-to-github)
+5. 🎉 Merged PR [#4](https://github.com/Nigelrex/Nigelrex/pull/4) in [Nigelrex/Nigelrex](https://github.com/Nigelrex/Nigelrex)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 12th, 2022, 3:17:44 AM (GMT)
+Last Updated: Monday, June 13th, 2022, 3:24:48 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
