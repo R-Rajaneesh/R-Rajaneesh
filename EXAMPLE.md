@@ -5,7 +5,7 @@
 
 <p align="left"> <a><img src="https://github-profile-trophy.vercel.app/?username=nigelrex&no-bg=true&no-frame=true" alt="nigelrex" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/nigelrextaken" target="blank"><img src="https://img.shields.io/twitter/follow/nigelrextaken?logo=twitter&style=for-the-badge&no-bg=true" alt="nigelrextaken" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rajaneesh__r" target="blank"><img src="https://img.shields.io/twitter/follow/rajaneesh__r?logo=twitter&style=for-the-badge&no-bg=true" alt="rajaneesh__r" /></a> </p>
 
 
 - 😄 Pronouns: He/Him - They/Them
@@ -14,11 +14,7 @@
 
 - 🌱 I’m currently learning **Node.js, JS, HTML, CSS, AHK, PYTHON**
 
-- 📫 My Website [My Website](https://nigelrex.netlify.app) [![Netlify Status](https://api.netlify.com/api/v1/badges/5865f615-3f81-44e3-8355-fa9b755b9877/deploy-status)](https://nigelrex.netlify.com)
-
-- 👨‍💻 All of my projects are available at [My projects](https://nigelrex.netlify.app/public/pages/products.html)
-
-- 📝 I regularly write articles on [My Blog](https://nigelrex.netlify.app/public/pages/blog.html)
+- 📫 My Website [My Website](https://rajaneesh.netlify.app) [![Netlify Status](https://api.netlify.com/api/v1/badges/5865f615-3f81-44e3-8355-fa9b755b9877/deploy-status)](https://rajaneesh.netlify.com)
 
 - 💬 Ask me about **Node.js, JS**
 
@@ -28,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nigelrextaken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nigelrextaken" height="30" width="40" /></a>
+<a href="https://twitter.com/rajaneesh__r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajaneesh__r" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15005026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15005026" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/nigelrex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nigelrex" height="30" width="40" /></a>
 </p>
