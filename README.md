@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nigelrex&no-bg=trueb&label=Profile%20views&color=0e75b6&style=flat" alt="nigelrex" /> </p>
 
 [![Update README](https://github.com/Nigelrex/Nigelrex/actions/workflows/update-readme.yml/badge.svg?event=workflow_run)](https://github.com/Nigelrex/Nigelrex/actions/workflows/update-readme.yml)
-<p align="left"> <a href="https://twitter.com/nigelrextaken" target="blank"><img src="https://img.shields.io/twitter/follow/nigelrextaken?logo=twitter&style=for-the-badge&no-bg=true" alt="nigelrextaken" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rajaneesh__r" target="blank"><img src="https://img.shields.io/twitter/follow/rajaneesh__r?logo=twitter&style=for-the-badge&no-bg=true" alt="nigelrextaken" /></a> </p>
 
 ---
 
@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Node.js, JS, HTML, CSS, AHK, PYTHON**
 
-- 📫 My Website [My Website](https://nigelrex.netlify.app)
+- 📫 My Website [My Website](https://rajaneesh.netlify.app)
 
 - 💬 Ask me about **Node.js, JS**
 
@@ -28,7 +28,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nigelrextaken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nigelrextaken" height="30" width="40" /></a>
+<a href="https://twitter.com/rajaneesh__r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nigelrextaken" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15005026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15005026" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/nigelrex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nigelrex" height="30" width="40" /></a>
 </p>
