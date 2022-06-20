@@ -52,16 +52,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Nigelrex/nigelrex.github.io](https://github.com/Nigelrex/nigelrex.github.io)
-2. ⭐ Starred [torvalds/linux](https://github.com/torvalds/linux)
-3. ⭐ Starred [mongodb/mongo](https://github.com/mongodb/mongo)
-4. ⭐ Starred [ossu/computer-science](https://github.com/ossu/computer-science)
-5. ⭐ Starred [requarks/connect-loki](https://github.com/requarks/connect-loki)
+1. ⬆️ Pushed 1 commit(s) to [Nigelrex/Nigelrex](https://github.com/Nigelrex/Nigelrex)
+2. ⬆️ Pushed 1 commit(s) to [Nigelrex/Nigelrex](https://github.com/Nigelrex/Nigelrex)
+3. ⬆️ Pushed 1 commit(s) to [Nigelrex/nigelrex.github.io](https://github.com/Nigelrex/nigelrex.github.io)
+4. ⭐ Starred [torvalds/linux](https://github.com/torvalds/linux)
+5. ⭐ Starred [mongodb/mongo](https://github.com/mongodb/mongo)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 19th, 2022, 3:30:37 AM (GMT)
+Last Updated: Monday, June 20th, 2022, 3:10:07 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
