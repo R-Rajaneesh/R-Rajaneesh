@@ -52,16 +52,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips)
-2. ⬆️ Pushed 1 commit(s) to [Nigelrex/Nigelrex](https://github.com/Nigelrex/Nigelrex)
+1. ⭐ Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+2. ⭐ Starred [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips)
 3. ⬆️ Pushed 1 commit(s) to [Nigelrex/Nigelrex](https://github.com/Nigelrex/Nigelrex)
-4. ⬆️ Pushed 1 commit(s) to [Nigelrex/nigelrex.github.io](https://github.com/Nigelrex/nigelrex.github.io)
-5. ⭐ Starred [torvalds/linux](https://github.com/torvalds/linux)
+4. ⬆️ Pushed 1 commit(s) to [Nigelrex/Nigelrex](https://github.com/Nigelrex/Nigelrex)
+5. ⬆️ Pushed 1 commit(s) to [Nigelrex/nigelrex.github.io](https://github.com/Nigelrex/nigelrex.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 22nd, 2022, 3:25:11 AM (GMT)
+Last Updated: Thursday, June 23rd, 2022, 3:26:00 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
