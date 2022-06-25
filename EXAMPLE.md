@@ -1,7 +1,7 @@
 <h1 align="center">👋 Rajaneesh.R here!</h1>
 <h3 align="center">Rajaneesh.R here!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rajaneesh.R&no-bg=trueb&label=Profile%20views&color=0e75b6&style=flat" alt="nigelrex" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=R-Rajaneesh&no-bg=trueb&label=Profile%20views&color=0e75b6&style=flat" alt="nigelrex" /> </p>
 
 <p align="left"> <a><img src="https://github-profile-trophy.vercel.app/?username=nigelrex&no-bg=true&no-frame=true" alt="Rajaneesh.R" /></a> </p>
 
