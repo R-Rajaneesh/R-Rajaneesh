@@ -52,16 +52,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [NuTopia-YBPS/nutopia-backend](https://github.com/NuTopia-YBPS/nutopia-backend)
-2. ⬆️ Pushed 1 commit(s) to [NuTopia-YBPS/nutopia-backend](https://github.com/NuTopia-YBPS/nutopia-backend)
-3. ⬆️ Pushed 2 commit(s) to [NuTopia-YBPS/Nutopia](https://github.com/NuTopia-YBPS/Nutopia)
+1. ⬆️ Pushed 1 commit(s) to [NuTopia-YBPS/Nutopia](https://github.com/NuTopia-YBPS/Nutopia)
+2. ⬆️ Pushed 2 commit(s) to [NuTopia-YBPS/Nutopia](https://github.com/NuTopia-YBPS/Nutopia)
+3. ⬆️ Pushed 1 commit(s) to [NuTopia-YBPS/nutopia-backend](https://github.com/NuTopia-YBPS/nutopia-backend)
 4. ⬆️ Pushed 1 commit(s) to [NuTopia-YBPS/nutopia-backend](https://github.com/NuTopia-YBPS/nutopia-backend)
 5. ⬆️ Pushed 1 commit(s) to [NuTopia-YBPS/nutopia-backend](https://github.com/NuTopia-YBPS/nutopia-backend)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 5th, 2022, 3:37:30 AM (GMT)
+Last Updated: Wednesday, July 6th, 2022, 3:43:00 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
