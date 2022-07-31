@@ -52,16 +52,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom)
-2. ⭐ Starred [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio)
-3. ⭐ Starred [goldfire/howler.js](https://github.com/goldfire/howler.js)
-4. ⭐ Starred [TanStack/table](https://github.com/TanStack/table)
-5. ⭐ Starred [mozilla-spidermonkey/spidermonkey-embedding-examples](https://github.com/mozilla-spidermonkey/spidermonkey-embedding-examples)
+1. ⭐ Starred [QMonkey/wsl-tutorial](https://github.com/QMonkey/wsl-tutorial)
+2. ⭐ Starred [airbnb/javascript](https://github.com/airbnb/javascript)
+3. ⭐ Starred [d3/d3](https://github.com/d3/d3)
+4. ⭐ Starred [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom)
+5. ⭐ Starred [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 30th, 2022, 3:42:23 AM (GMT)
+Last Updated: Sunday, July 31st, 2022, 3:35:39 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
