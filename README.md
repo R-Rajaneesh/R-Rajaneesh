@@ -52,16 +52,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [oldboyxx/jira_clone](https://github.com/oldboyxx/jira_clone)
-2. ⭐ Starred [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
-3. ⭐ Starred [axios/axios](https://github.com/axios/axios)
-4. ⭐ Starred [hotwired/turbo](https://github.com/hotwired/turbo)
-5. ⭐ Starred [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower)
+1. ⭐ Starred [jquense/yup](https://github.com/jquense/yup)
+2. ⭐ Starred [oldboyxx/jira_clone](https://github.com/oldboyxx/jira_clone)
+3. ⭐ Starred [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+4. ⭐ Starred [axios/axios](https://github.com/axios/axios)
+5. ⭐ Starred [hotwired/turbo](https://github.com/hotwired/turbo)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 23rd, 2022, 4:04:14 AM (GMT)
+Last Updated: Wednesday, August 24th, 2022, 4:01:22 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
