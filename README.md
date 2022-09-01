@@ -67,16 +67,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lukemorales/query-key-factory](https://github.com/lukemorales/query-key-factory)
-2. ⭐ Starred [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe)
-3. ⭐ Starred [pbatard/rufus](https://github.com/pbatard/rufus)
-4. ⬆️ Pushed 1 commit(s) to [R-Rajaneesh/R-Rajaneesh](https://github.com/R-Rajaneesh/R-Rajaneesh)
-5. ⬆️ Pushed 1 commit(s) to [R-Rajaneesh/R-Rajaneesh](https://github.com/R-Rajaneesh/R-Rajaneesh)
+1. ⭐ Starred [apache/incubator-mxnet](https://github.com/apache/incubator-mxnet)
+2. ⭐ Starred [primaryobjects/lda](https://github.com/primaryobjects/lda)
+3. ⭐ Starred [lukemorales/query-key-factory](https://github.com/lukemorales/query-key-factory)
+4. ⭐ Starred [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe)
+5. ⭐ Starred [pbatard/rufus](https://github.com/pbatard/rufus)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 31st, 2022, 4:23:07 AM (GMT)
+Last Updated: Thursday, September 1st, 2022, 4:01:08 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
