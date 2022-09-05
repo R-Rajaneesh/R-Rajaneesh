@@ -67,16 +67,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [fent/node-ytdl-core](https://github.com/fent/node-ytdl-core)
-2. ⭐ Starred [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)
-3. ⭐ Starred [apache/incubator-mxnet](https://github.com/apache/incubator-mxnet)
-4. ⭐ Starred [primaryobjects/lda](https://github.com/primaryobjects/lda)
-5. ⭐ Starred [lukemorales/query-key-factory](https://github.com/lukemorales/query-key-factory)
+1. ⭐ Starred [samizdatco/skia-canvas](https://github.com/samizdatco/skia-canvas)
+2. ⭐ Starred [josdejong/lossless-json](https://github.com/josdejong/lossless-json)
+3. ⭐ Starred [josdejong/mathjs](https://github.com/josdejong/mathjs)
+4. ⭐ Starred [google/mathsteps](https://github.com/google/mathsteps)
+5. ⭐ Starred [fent/node-ytdl-core](https://github.com/fent/node-ytdl-core)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 4th, 2022, 4:02:50 AM (GMT)
+Last Updated: Monday, September 5th, 2022, 4:10:39 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
