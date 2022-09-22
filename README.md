@@ -67,16 +67,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sindresorhus/exit-hook](https://github.com/sindresorhus/exit-hook)
-2. ⭐ Starred [NathanFirmo/classifier.js](https://github.com/NathanFirmo/classifier.js)
-3. ⭐ Starred [tr1ckydev/great.db](https://github.com/tr1ckydev/great.db)
-4. ⭐ Starred [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio)
-5. ⭐ Starred [skytable/skytable](https://github.com/skytable/skytable)
+1. ⭐ Starred [openai/whisper](https://github.com/openai/whisper)
+2. ⭐ Starred [sindresorhus/exit-hook](https://github.com/sindresorhus/exit-hook)
+3. ⭐ Starred [NathanFirmo/classifier.js](https://github.com/NathanFirmo/classifier.js)
+4. ⭐ Starred [tr1ckydev/great.db](https://github.com/tr1ckydev/great.db)
+5. ⭐ Starred [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 21st, 2022, 4:14:05 AM (GMT)
+Last Updated: Thursday, September 22nd, 2022, 4:08:27 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
