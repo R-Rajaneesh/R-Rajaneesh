@@ -67,16 +67,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [openai/whisper](https://github.com/openai/whisper)
-2. ⭐ Starred [sindresorhus/exit-hook](https://github.com/sindresorhus/exit-hook)
-3. ⭐ Starred [NathanFirmo/classifier.js](https://github.com/NathanFirmo/classifier.js)
-4. ⭐ Starred [tr1ckydev/great.db](https://github.com/tr1ckydev/great.db)
-5. ⭐ Starred [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio)
+1. ⭐ Starred [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+2. ⭐ Starred [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime)
+3. ⭐ Starred [openai/whisper](https://github.com/openai/whisper)
+4. ⭐ Starred [sindresorhus/exit-hook](https://github.com/sindresorhus/exit-hook)
+5. ⭐ Starred [NathanFirmo/classifier.js](https://github.com/NathanFirmo/classifier.js)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 22nd, 2022, 4:08:27 AM (GMT)
+Last Updated: Friday, September 23rd, 2022, 4:11:32 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
