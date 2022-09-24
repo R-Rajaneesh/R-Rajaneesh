@@ -47,7 +47,7 @@
 )](https://stackoverflow.com/users/15005026/) [![](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white
 )](https://www.reddit.com/user/rajaneesh-r) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/rajaneesh-r-1640a124a/) [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/rajaneeshr_dev/)
+)](https://www.instagram.com/r__rajaneesh/)
 ---
 
 ## Trophies
