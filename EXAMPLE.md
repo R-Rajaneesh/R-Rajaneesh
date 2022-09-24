@@ -47,7 +47,7 @@
 )](https://stackoverflow.com/users/15005026/) [![](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white
 )](https://www.reddit.com/user/rajaneesh-r) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/rajaneesh-r-1640a124a/) [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/rajaneeshr_dev/)
+)](https://www.instagram.com/r__rajaneesh/)
 ---
 
 ## Trophies
@@ -83,5 +83,3 @@
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />All my work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 
 ---
-
-![Metrics](/github-metrics.svg)
