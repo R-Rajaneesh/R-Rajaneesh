@@ -67,16 +67,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [R-Rajaneesh/R-Rajaneesh](https://github.com/R-Rajaneesh/R-Rajaneesh)
-2. ⬆️ Pushed 1 commit(s) to [R-Rajaneesh/R-Rajaneesh](https://github.com/R-Rajaneesh/R-Rajaneesh)
-3. ⬆️ Pushed 1 commit(s) to [R-Rajaneesh/R-Rajaneesh](https://github.com/R-Rajaneesh/R-Rajaneesh)
-4. ⭐ Starred [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
-5. ⭐ Starred [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime)
+1. ⬆️ Pushed 1 commit(s) to [R-Rajaneesh/r-rajaneesh.github.io](https://github.com/R-Rajaneesh/r-rajaneesh.github.io)
+2. ⬆️ Pushed 1 commit(s) to [R-Rajaneesh/r-rajaneesh.github.io](https://github.com/R-Rajaneesh/r-rajaneesh.github.io)
+3. ❌ Closed PR [#1](https://github.com/R-Rajaneesh/r-rajaneesh.github.io/pull/1) in [R-Rajaneesh/r-rajaneesh.github.io](https://github.com/R-Rajaneesh/r-rajaneesh.github.io)
+4. ❌ Closed PR [#2](https://github.com/R-Rajaneesh/r-rajaneesh.github.io/pull/2) in [R-Rajaneesh/r-rajaneesh.github.io](https://github.com/R-Rajaneesh/r-rajaneesh.github.io)
+5. ⬆️ Pushed 1 commit(s) to [R-Rajaneesh/r-rajaneesh.github.io](https://github.com/R-Rajaneesh/r-rajaneesh.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 25th, 2022, 4:01:58 AM (GMT)
+Last Updated: Monday, September 26th, 2022, 4:17:26 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
