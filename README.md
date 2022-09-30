@@ -67,16 +67,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [FireCubeStudios/Protecc](https://github.com/FireCubeStudios/Protecc)
-2. ⭐ Starred [TryGhost/node-sqlite3](https://github.com/TryGhost/node-sqlite3)
-3. ⭐ Starred [eslachance/enmap](https://github.com/eslachance/enmap)
-4. ⭐ Starred [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-5. ⭐ Starred [thepowersgang/rust_os](https://github.com/thepowersgang/rust_os)
+1. ⭐ Starred [mui/material-ui](https://github.com/mui/material-ui)
+2. ⭐ Starred [FireCubeStudios/Protecc](https://github.com/FireCubeStudios/Protecc)
+3. ⭐ Starred [TryGhost/node-sqlite3](https://github.com/TryGhost/node-sqlite3)
+4. ⭐ Starred [eslachance/enmap](https://github.com/eslachance/enmap)
+5. ⭐ Starred [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 29th, 2022, 4:11:53 AM (GMT)
+Last Updated: Friday, September 30th, 2022, 4:25:34 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
