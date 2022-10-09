@@ -67,16 +67,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sql-js/sql.js](https://github.com/sql-js/sql.js)
-2. ⭐ Starred [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb)
-3. ⭐ Starred [typicode/lowdb](https://github.com/typicode/lowdb)
-4. ⭐ Starred [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools)
-5. ❌ Closed PR [#2](https://github.com/R-Rajaneesh/quipodb/pull/2) in [R-Rajaneesh/quipodb](https://github.com/R-Rajaneesh/quipodb)
+1. ⭐ Starred [knex/knex](https://github.com/knex/knex)
+2. ⭐ Starred [knex/documentation](https://github.com/knex/documentation)
+3. ⭐ Starred [pytorch/pytorch](https://github.com/pytorch/pytorch)
+4. ⭐ Starred [sql-js/sql.js](https://github.com/sql-js/sql.js)
+5. ⭐ Starred [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 8th, 2022, 3:24:25 AM (GMT)
+Last Updated: Sunday, October 9th, 2022, 3:58:04 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
