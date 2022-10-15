@@ -67,16 +67,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [PostHog/posthog](https://github.com/PostHog/posthog)
-2. ⭐ Starred [alibaba/hooks](https://github.com/alibaba/hooks)
-3. ⭐ Starred [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui)
-4. ⭐ Starred [knex/knex](https://github.com/knex/knex)
-5. ⭐ Starred [knex/documentation](https://github.com/knex/documentation)
+1. ⭐ Starred [pksunkara/inflect](https://github.com/pksunkara/inflect)
+2. ⭐ Starred [PostHog/posthog](https://github.com/PostHog/posthog)
+3. ⭐ Starred [alibaba/hooks](https://github.com/alibaba/hooks)
+4. ⭐ Starred [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui)
+5. ⭐ Starred [knex/knex](https://github.com/knex/knex)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 14th, 2022, 4:16:41 AM (GMT)
+Last Updated: Saturday, October 15th, 2022, 4:07:30 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
