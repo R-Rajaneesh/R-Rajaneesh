@@ -67,16 +67,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
-2. ⭐ Starred [SwitchbladeBot/switchblade](https://github.com/SwitchbladeBot/switchblade)
-3. ⭐ Starred [doggybootsy/hidden-disc-docs](https://github.com/doggybootsy/hidden-disc-docs)
-4. ⭐ Starred [ImLorio/All-Discord-Exploits](https://github.com/ImLorio/All-Discord-Exploits)
-5. ⬆️ Pushed 1 commit(s) to [R-Rajaneesh/quipodb](https://github.com/R-Rajaneesh/quipodb)
+1. ⭐ Starred [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb)
+2. ⭐ Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+3. ⭐ Starred [SwitchbladeBot/switchblade](https://github.com/SwitchbladeBot/switchblade)
+4. ⭐ Starred [doggybootsy/hidden-disc-docs](https://github.com/doggybootsy/hidden-disc-docs)
+5. ⭐ Starred [ImLorio/All-Discord-Exploits](https://github.com/ImLorio/All-Discord-Exploits)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 30th, 2022, 3:45:54 AM (GMT)
+Last Updated: Monday, October 31st, 2022, 3:40:37 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
