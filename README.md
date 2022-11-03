@@ -67,16 +67,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb)
-2. ⭐ Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
-3. ⭐ Starred [SwitchbladeBot/switchblade](https://github.com/SwitchbladeBot/switchblade)
-4. ⭐ Starred [doggybootsy/hidden-disc-docs](https://github.com/doggybootsy/hidden-disc-docs)
-5. ⭐ Starred [ImLorio/All-Discord-Exploits](https://github.com/ImLorio/All-Discord-Exploits)
+1. ❌ Closed PR [#9](https://github.com/alexeyraspopov/picocolors/pull/9) in [alexeyraspopov/picocolors](https://github.com/alexeyraspopov/picocolors)
+2. ⭐ Starred [Automattic/node-canvas](https://github.com/Automattic/node-canvas)
+3. ⭐ Starred [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb)
+4. ⭐ Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+5. ⭐ Starred [SwitchbladeBot/switchblade](https://github.com/SwitchbladeBot/switchblade)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 2nd, 2022, 3:51:00 AM (GMT)
+Last Updated: Thursday, November 3rd, 2022, 3:23:27 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
