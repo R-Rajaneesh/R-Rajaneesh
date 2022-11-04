@@ -67,16 +67,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#9](https://github.com/alexeyraspopov/picocolors/pull/9) in [alexeyraspopov/picocolors](https://github.com/alexeyraspopov/picocolors)
-2. ⭐ Starred [Automattic/node-canvas](https://github.com/Automattic/node-canvas)
-3. ⭐ Starred [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb)
-4. ⭐ Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
-5. ⭐ Starred [SwitchbladeBot/switchblade](https://github.com/SwitchbladeBot/switchblade)
+1. ⭐ Starred [moment/moment](https://github.com/moment/moment)
+2. ⭐ Starred [lodash/lodash](https://github.com/lodash/lodash)
+3. ⭐ Starred [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)
+4. ⭐ Starred [jdorn/json-editor](https://github.com/jdorn/json-editor)
+5. ⭐ Starred [Siris2314/NecroAtomicBot](https://github.com/Siris2314/NecroAtomicBot)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 3rd, 2022, 3:23:27 AM (GMT)
+Last Updated: Friday, November 4th, 2022, 3:36:44 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
