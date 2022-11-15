@@ -67,16 +67,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [typicode/steno](https://github.com/typicode/steno)
-2. ⭐ Starred [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
-3. ⭐ Starred [smartprocure/futil-js](https://github.com/smartprocure/futil-js)
-4. ⭐ Starred [BuilderIO/qwik](https://github.com/BuilderIO/qwik)
-5. ⭐ Starred [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)
+1. ⭐ Starred [mattreid1/baojs](https://github.com/mattreid1/baojs)
+2. ⭐ Starred [badges/shields](https://github.com/badges/shields)
+3. ⭐ Starred [sveltejs/kit](https://github.com/sveltejs/kit)
+4. ⭐ Starred [typicode/steno](https://github.com/typicode/steno)
+5. ⭐ Starred [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 14th, 2022, 3:20:09 AM (GMT)
+Last Updated: Tuesday, November 15th, 2022, 3:09:08 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
