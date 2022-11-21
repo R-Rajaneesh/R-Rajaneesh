@@ -67,16 +67,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [R-Rajaneesh/thalir-design-thinking](https://github.com/R-Rajaneesh/thalir-design-thinking)
+1. ⭐ Starred [notpresident35/awesome-learn-gamedev](https://github.com/notpresident35/awesome-learn-gamedev)
 2. ⬆️ Pushed 1 commit(s) to [R-Rajaneesh/thalir-design-thinking](https://github.com/R-Rajaneesh/thalir-design-thinking)
 3. ⬆️ Pushed 1 commit(s) to [R-Rajaneesh/thalir-design-thinking](https://github.com/R-Rajaneesh/thalir-design-thinking)
-4. ⭐ Starred [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD)
-5. ⭐ Starred [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+4. ⬆️ Pushed 1 commit(s) to [R-Rajaneesh/thalir-design-thinking](https://github.com/R-Rajaneesh/thalir-design-thinking)
+5. ⭐ Starred [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 20th, 2022, 3:12:18 AM (GMT)
+Last Updated: Monday, November 21st, 2022, 3:10:29 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
