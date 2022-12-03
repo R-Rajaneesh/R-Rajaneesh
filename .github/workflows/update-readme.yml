@@ -19,3 +19,6 @@ jobs:
         uses: Readme-Workflows/recent-activity@v2.4.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Metrics embed
+        uses: lowlighter/metrics@v3.29
