@@ -67,16 +67,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [photonstorm/phaser](https://github.com/photonstorm/phaser)
-2. ⬆️ Pushed 1 commit(s) to [R-Rajaneesh/quipodb](https://github.com/R-Rajaneesh/quipodb)
-3. ⭐ Starred [lucaong/minisearch](https://github.com/lucaong/minisearch)
-4. ⭐ Starred [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
-5. ⬆️ Pushed 1 commit(s) to [R-Rajaneesh/quipodb](https://github.com/R-Rajaneesh/quipodb)
+1. ⭐ Starred [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs)
+2. ⭐ Starred [photonstorm/phaser](https://github.com/photonstorm/phaser)
+3. ⬆️ Pushed 1 commit(s) to [R-Rajaneesh/quipodb](https://github.com/R-Rajaneesh/quipodb)
+4. ⭐ Starred [lucaong/minisearch](https://github.com/lucaong/minisearch)
+5. ⭐ Starred [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 29th, 2022, 3:16:11 AM (GMT)
+Last Updated: Friday, December 30th, 2022, 2:33:03 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
