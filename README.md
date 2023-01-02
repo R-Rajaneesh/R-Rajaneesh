@@ -67,16 +67,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Tenpi/Kisaragi](https://github.com/Tenpi/Kisaragi)
-2. ⭐ Starred [rmolinamir/typescript-cheatsheet](https://github.com/rmolinamir/typescript-cheatsheet)
-3. ⭐ Starred [DrkSephy/es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
-4. ⭐ Starred [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs)
-5. ⭐ Starred [photonstorm/phaser](https://github.com/photonstorm/phaser)
+1. ⭐ Starred [Rygent/ElviaBot](https://github.com/Rygent/ElviaBot)
+2. ⭐ Starred [streamich/fs-monkey](https://github.com/streamich/fs-monkey)
+3. ⭐ Starred [Tenpi/Kisaragi](https://github.com/Tenpi/Kisaragi)
+4. ⭐ Starred [rmolinamir/typescript-cheatsheet](https://github.com/rmolinamir/typescript-cheatsheet)
+5. ⭐ Starred [DrkSephy/es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 1st, 2023, 3:10:45 AM (GMT)
+Last Updated: Monday, January 2nd, 2023, 2:33:23 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
