@@ -67,16 +67,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sveltejs/svelte](https://github.com/sveltejs/svelte)
-2. ⭐ Starred [vinta/awesome-python](https://github.com/vinta/awesome-python)
-3. ⭐ Starred [pytube/pytube](https://github.com/pytube/pytube)
-4. ⭐ Starred [Rygent/ElviaBot](https://github.com/Rygent/ElviaBot)
-5. ⭐ Starred [streamich/fs-monkey](https://github.com/streamich/fs-monkey)
+1. ⭐ Starred [gluon-framework/gluon](https://github.com/gluon-framework/gluon)
+2. ⭐ Starred [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
+3. ⭐ Starred [sveltejs/svelte](https://github.com/sveltejs/svelte)
+4. ⭐ Starred [vinta/awesome-python](https://github.com/vinta/awesome-python)
+5. ⭐ Starred [pytube/pytube](https://github.com/pytube/pytube)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 4th, 2023, 3:05:48 AM (GMT)
+Last Updated: Thursday, January 5th, 2023, 2:35:52 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
