@@ -67,16 +67,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gluon-framework/gluon](https://github.com/gluon-framework/gluon)
-2. ⭐ Starred [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
-3. ⭐ Starred [sveltejs/svelte](https://github.com/sveltejs/svelte)
-4. ⭐ Starred [vinta/awesome-python](https://github.com/vinta/awesome-python)
-5. ⭐ Starred [pytube/pytube](https://github.com/pytube/pytube)
+1. ⭐ Starred [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)
+2. ⭐ Starred [3kh0/3kh0.github.io](https://github.com/3kh0/3kh0.github.io)
+3. ⭐ Starred [gluon-framework/gluon](https://github.com/gluon-framework/gluon)
+4. ⭐ Starred [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
+5. ⭐ Starred [sveltejs/svelte](https://github.com/sveltejs/svelte)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 7th, 2023, 3:15:47 AM (GMT)
+Last Updated: Sunday, January 8th, 2023, 2:40:15 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
