@@ -67,16 +67,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Wikidepia/InstaFix](https://github.com/Wikidepia/InstaFix)
-2. ⭐ Starred [play-co/webgl-2d](https://github.com/play-co/webgl-2d)
-3. ⭐ Starred [canvasui/CanvasUI](https://github.com/canvasui/CanvasUI)
-4. ⭐ Starred [colinhacks/zod](https://github.com/colinhacks/zod)
-5. ⭐ Starred [microsoft/playwright](https://github.com/microsoft/playwright)
+1. ⭐ Starred [krisk/Fuse](https://github.com/krisk/Fuse)
+2. ⭐ Starred [Wikidepia/InstaFix](https://github.com/Wikidepia/InstaFix)
+3. ⭐ Starred [play-co/webgl-2d](https://github.com/play-co/webgl-2d)
+4. ⭐ Starred [canvasui/CanvasUI](https://github.com/canvasui/CanvasUI)
+5. ⭐ Starred [colinhacks/zod](https://github.com/colinhacks/zod)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 16th, 2023, 3:12:20 AM (GMT)
+Last Updated: Tuesday, January 17th, 2023, 2:36:04 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
