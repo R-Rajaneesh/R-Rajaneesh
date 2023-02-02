@@ -67,16 +67,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
-2. ⭐ Starred [song940/node-dns](https://github.com/song940/node-dns)
-3. ⭐ Starred [artur99/named-server](https://github.com/artur99/named-server)
-4. ⭐ Starred [csabatibortoth/njord-ns-server](https://github.com/csabatibortoth/njord-ns-server)
-5. ⭐ Starred [chjj/bns](https://github.com/chjj/bns)
+1. ⭐ Starred [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust)
+2. ⭐ Starred [Tahul/pinceau](https://github.com/Tahul/pinceau)
+3. ⭐ Starred [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+4. ⭐ Starred [song940/node-dns](https://github.com/song940/node-dns)
+5. ⭐ Starred [artur99/named-server](https://github.com/artur99/named-server)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 1st, 2023, 3:15:24 AM (GMT)
+Last Updated: Thursday, February 2nd, 2023, 2:40:22 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
