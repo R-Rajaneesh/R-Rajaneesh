@@ -2,13 +2,13 @@
 
 👦🏻 Pronouns: He/Him
 
-🔭 I’m currently working on: Projects that needs the most attention. like a json database with firestore like features
+🔭 I’m currently working on: A replica of pihole in nodejs
 
-🌱 I’m currently learning: Typescript, Python, React
+🌱 I’m currently learning: Python
 
 💬 Ask me about: Nothing.
 
-⚡ Fun fact: hmm.
+⚡ Fun fact: **"I never failed, I learned 10,000 ways how things won't work"**
 
 ---
 
@@ -25,15 +25,15 @@
 ) ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 )
 
-## IDE I use
+## My Favourite IDE
 
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
 )
 
-## Browser I use
+## Browsers I use
 ![](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)
 
-## I use
+## Platforms I have worked on
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
 ) ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
 ) ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
@@ -48,6 +48,11 @@
 )](https://www.reddit.com/user/rajaneesh-r) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/rajaneesh-r-1640a124a/) [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/r__rajaneesh/)
+
+---
+
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=316jk2ojvzgyfho4a2y5obf7du74&width=600&count=10&unique=true)
+
 ---
 
 ## Trophies
@@ -67,16 +72,11 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#67](https://github.com/jamesgeorge007/github-activity-readme/issues/67#issuecomment-1421824862) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. ⭐ Starred [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works)
-3. ⭐ Starred [taosdata/TDengine](https://github.com/taosdata/TDengine)
-4. ⭐ Starred [privatenumber/reactive-json-file](https://github.com/privatenumber/reactive-json-file)
-5. ⭐ Starred [privatenumber/tasuku](https://github.com/privatenumber/tasuku)
+
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 8th, 2023, 3:02:18 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
@@ -88,5 +88,3 @@ Last Updated: Wednesday, February 8th, 2023, 3:02:18 AM (GMT)
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />All my work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 
 ---
-
-![Metrics](/github-metrics.svg)
