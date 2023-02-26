@@ -72,16 +72,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [localsend/localsend](https://github.com/localsend/localsend)
-2. ⭐ Starred [Amulet-Team/Amulet-Map-Editor](https://github.com/Amulet-Team/Amulet-Map-Editor)
-3. ⭐ Starred [tryashtar/nbt-studio](https://github.com/tryashtar/nbt-studio)
-4. ⭐ Starred [schollz/croc](https://github.com/schollz/croc)
-5. ⭐ Starred [szwacz/fs-jetpack](https://github.com/szwacz/fs-jetpack)
+1. ⭐ Starred [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
+2. ⭐ Starred [localsend/localsend](https://github.com/localsend/localsend)
+3. ⭐ Starred [Amulet-Team/Amulet-Map-Editor](https://github.com/Amulet-Team/Amulet-Map-Editor)
+4. ⭐ Starred [tryashtar/nbt-studio](https://github.com/tryashtar/nbt-studio)
+5. ⭐ Starred [schollz/croc](https://github.com/schollz/croc)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 26th, 2023, 2:51:49 AM (GMT)
+Last Updated: Sunday, February 26th, 2023, 3:17:42 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
