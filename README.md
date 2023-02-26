@@ -72,16 +72,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [schollz/croc](https://github.com/schollz/croc)
-2. ⭐ Starred [szwacz/fs-jetpack](https://github.com/szwacz/fs-jetpack)
-3. ⭐ Starred [KuroLabs/stegcloak](https://github.com/KuroLabs/stegcloak)
-4. ⭐ Starred [peterbraden/node-opencv](https://github.com/peterbraden/node-opencv)
-5. ⭐ Starred [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch)
+1. ⭐ Starred [localsend/localsend](https://github.com/localsend/localsend)
+2. ⭐ Starred [Amulet-Team/Amulet-Map-Editor](https://github.com/Amulet-Team/Amulet-Map-Editor)
+3. ⭐ Starred [tryashtar/nbt-studio](https://github.com/tryashtar/nbt-studio)
+4. ⭐ Starred [schollz/croc](https://github.com/schollz/croc)
+5. ⭐ Starred [szwacz/fs-jetpack](https://github.com/szwacz/fs-jetpack)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 25th, 2023, 3:03:34 AM (GMT)
+Last Updated: Sunday, February 26th, 2023, 2:51:49 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
