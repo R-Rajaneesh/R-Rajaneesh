@@ -43,7 +43,7 @@
 
 [![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white
 )](https://dev.to/rrajaneesh) [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
-)](https://rajaneeshr.medium.com) [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rajaneesh__r) [![](https://img.shields.io/badge/Discord-5561f5?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/738032578820309072) [![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
+)](https://rajaneeshr.medium.com) [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rajaneesh__r) [![](https://img.shields.io/badge/Discord-5561f5?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/Gmxxw6KfEF) [![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
 )](https://stackoverflow.com/users/15005026/) [![](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white
 )](https://www.reddit.com/user/rajaneesh-r) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/rajaneesh-r-1640a124a/) [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
