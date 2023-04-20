@@ -72,16 +72,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg)<br>
-2. ⭐ Starred [nanobyte-dev/nanobyte_os](https://github.com/nanobyte-dev/nanobyte_os)<br>
-3. ⭐ Starred [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT)<br>
-4. 💬 Commented on [#25199](https://github.com/microsoft/PowerToys/issues/25199#issuecomment-1499933517) in [microsoft/PowerToys](https://github.com/microsoft/PowerToys)<br>
-5. ⭐ Starred [chrisant996/clink](https://github.com/chrisant996/clink)<br>
+1. ⭐ Starred [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors)<br>
+2. ⭐ Starred [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg)<br>
+3. ⭐ Starred [nanobyte-dev/nanobyte_os](https://github.com/nanobyte-dev/nanobyte_os)<br>
+4. ⭐ Starred [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT)<br>
+5. 💬 Commented on [#25199](https://github.com/microsoft/PowerToys/issues/25199#issuecomment-1499933517) in [microsoft/PowerToys](https://github.com/microsoft/PowerToys)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 19th, 2023, 3:14:03 AM (GMT)
+Last Updated: Thursday, April 20th, 2023, 2:25:52 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
