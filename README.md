@@ -72,16 +72,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#2003](https://github.com/TypeStrong/ts-node/pull/2003#issuecomment-1532321027) in [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node)<br>
-2. ⭐ Starred [faraazahmad/tisp](https://github.com/faraazahmad/tisp)<br>
-3. ⭐ Starred [maciejhirsz/logos](https://github.com/maciejhirsz/logos)<br>
-4. ⭐ Starred [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors)<br>
-5. ⭐ Starred [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg)<br>
+1. ⭐ Starred [modularml/mojo](https://github.com/modularml/mojo)<br>
+2. 💬 Commented on [#2003](https://github.com/TypeStrong/ts-node/pull/2003#issuecomment-1532321027) in [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node)<br>
+3. ⭐ Starred [faraazahmad/tisp](https://github.com/faraazahmad/tisp)<br>
+4. ⭐ Starred [maciejhirsz/logos](https://github.com/maciejhirsz/logos)<br>
+5. ⭐ Starred [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 8th, 2023, 3:11:51 AM (GMT)
+Last Updated: Tuesday, May 9th, 2023, 2:27:19 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
