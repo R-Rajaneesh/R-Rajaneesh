@@ -72,16 +72,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)<br>
-2. ⭐ Starred [keldenl/gpt-llama.cpp](https://github.com/keldenl/gpt-llama.cpp)<br>
-3. ⭐ Starred [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)<br>
-4. ✔️ Closed issue [#1](https://github.com/vismbs/Milk-Problem/issues/1) in [vismbs/Milk-Problem](https://github.com/vismbs/Milk-Problem)<br>
-5. ❗️ Opened issue [#1](https://github.com/vismbs/Milk-Problem/issues/1) in [vismbs/Milk-Problem](https://github.com/vismbs/Milk-Problem)<br>
+1. ⭐ Starred [microsoft/devicescript](https://github.com/microsoft/devicescript)<br>
+2. ⭐ Starred [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)<br>
+3. ⭐ Starred [keldenl/gpt-llama.cpp](https://github.com/keldenl/gpt-llama.cpp)<br>
+4. ⭐ Starred [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)<br>
+5. ✔️ Closed issue [#1](https://github.com/vismbs/Milk-Problem/issues/1) in [vismbs/Milk-Problem](https://github.com/vismbs/Milk-Problem)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 25th, 2023, 3:12:19 AM (GMT)
+Last Updated: Friday, May 26th, 2023, 2:27:11 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
