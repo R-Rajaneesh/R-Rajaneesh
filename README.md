@@ -72,16 +72,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts)<br>
-2. ⭐ Starred [PawanOsman/GoogleBard](https://github.com/PawanOsman/GoogleBard)<br>
-3. ⭐ Starred [esbuild-kit/tsx](https://github.com/esbuild-kit/tsx)<br>
-4. ⭐ Starred [ItsRauf/dataminev2](https://github.com/ItsRauf/dataminev2)<br>
-5. ⭐ Starred [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT)<br>
+1. ⭐ Starred [xmrig/xmrig](https://github.com/xmrig/xmrig)<br>
+2. ⭐ Starred [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts)<br>
+3. ⭐ Starred [PawanOsman/GoogleBard](https://github.com/PawanOsman/GoogleBard)<br>
+4. ⭐ Starred [esbuild-kit/tsx](https://github.com/esbuild-kit/tsx)<br>
+5. ⭐ Starred [ItsRauf/dataminev2](https://github.com/ItsRauf/dataminev2)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 11th, 2023, 3:22:11 AM (GMT)
+Last Updated: Monday, June 12th, 2023, 2:48:02 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
