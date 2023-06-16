@@ -72,16 +72,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [xmrig/xmrig](https://github.com/xmrig/xmrig)<br>
-2. ⭐ Starred [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts)<br>
-3. ⭐ Starred [PawanOsman/GoogleBard](https://github.com/PawanOsman/GoogleBard)<br>
-4. ⭐ Starred [esbuild-kit/tsx](https://github.com/esbuild-kit/tsx)<br>
-5. ⭐ Starred [ItsRauf/dataminev2](https://github.com/ItsRauf/dataminev2)<br>
+1. ⭐ Starred [dribdat/awesome-hackathon](https://github.com/dribdat/awesome-hackathon)<br>
+2. ⭐ Starred [xmrig/xmrig](https://github.com/xmrig/xmrig)<br>
+3. ⭐ Starred [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts)<br>
+4. ⭐ Starred [PawanOsman/GoogleBard](https://github.com/PawanOsman/GoogleBard)<br>
+5. ⭐ Starred [esbuild-kit/tsx](https://github.com/esbuild-kit/tsx)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 16th, 2023, 2:52:59 AM (GMT)
+Last Updated: Friday, June 16th, 2023, 2:59:50 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
