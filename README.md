@@ -72,16 +72,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vlang/awesome-v](https://github.com/vlang/awesome-v)<br>
-2. ⭐ Starred [dribdat/awesome-hackathon](https://github.com/dribdat/awesome-hackathon)<br>
-3. ⭐ Starred [xmrig/xmrig](https://github.com/xmrig/xmrig)<br>
-4. ⭐ Starred [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts)<br>
-5. ⭐ Starred [PawanOsman/GoogleBard](https://github.com/PawanOsman/GoogleBard)<br>
+1. ⭐ Starred [ishratUmar18/upskill-frontend](https://github.com/ishratUmar18/upskill-frontend)<br>
+2. ⭐ Starred [vlang/awesome-v](https://github.com/vlang/awesome-v)<br>
+3. ⭐ Starred [dribdat/awesome-hackathon](https://github.com/dribdat/awesome-hackathon)<br>
+4. ⭐ Starred [xmrig/xmrig](https://github.com/xmrig/xmrig)<br>
+5. ⭐ Starred [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 20th, 2023, 3:09:17 AM (GMT)
+Last Updated: Wednesday, June 21st, 2023, 2:32:11 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
