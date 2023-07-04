@@ -72,16 +72,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [egoist/tsup](https://github.com/egoist/tsup)<br>
-2. ⭐ Starred [refinedev/refine](https://github.com/refinedev/refine)<br>
-3. ⬆️ Pushed 1 commit(s) to [R-Rajaneesh/blackhole](https://github.com/R-Rajaneesh/blackhole)<br>
-4. ⭐ Starred [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera)<br>
-5. ⭐ Starred [ishratUmar18/upskill-frontend](https://github.com/ishratUmar18/upskill-frontend)<br>
+1. ⭐ Starred [nushell/nushell](https://github.com/nushell/nushell)<br>
+2. ⭐ Starred [egoist/tsup](https://github.com/egoist/tsup)<br>
+3. ⭐ Starred [refinedev/refine](https://github.com/refinedev/refine)<br>
+4. ⬆️ Pushed 1 commit(s) to [R-Rajaneesh/blackhole](https://github.com/R-Rajaneesh/blackhole)<br>
+5. ⭐ Starred [SharpAI/DeepCamera](https://github.com/SharpAI/DeepCamera)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 3rd, 2023, 3:16:50 AM (GMT)
+Last Updated: Tuesday, July 4th, 2023, 2:54:13 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
