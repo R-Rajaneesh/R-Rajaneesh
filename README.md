@@ -72,16 +72,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [StanGirard/quivr](https://github.com/StanGirard/quivr)<br>
-2. ⭐ Starred [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses)<br>
-3. ⭐ Starred [nushell/nushell](https://github.com/nushell/nushell)<br>
-4. ⭐ Starred [egoist/tsup](https://github.com/egoist/tsup)<br>
-5. ⭐ Starred [refinedev/refine](https://github.com/refinedev/refine)<br>
+1. 📔 Created new repository [R-Rajaneesh/awesome-bard](https://github.com/R-Rajaneesh/awesome-bard)<br>
+2. ⭐ Starred [StanGirard/quivr](https://github.com/StanGirard/quivr)<br>
+3. ⭐ Starred [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses)<br>
+4. ⭐ Starred [nushell/nushell](https://github.com/nushell/nushell)<br>
+5. ⭐ Starred [egoist/tsup](https://github.com/egoist/tsup)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 13th, 2023, 3:21:03 AM (GMT)
+Last Updated: Friday, July 14th, 2023, 2:54:00 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
