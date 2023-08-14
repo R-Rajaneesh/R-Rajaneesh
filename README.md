@@ -72,16 +72,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [huggingface/candle](https://github.com/huggingface/candle)<br>
-2. 📔 Created new repository [R-Rajaneesh/awesome-bard](https://github.com/R-Rajaneesh/awesome-bard)<br>
-3. ⭐ Starred [StanGirard/quivr](https://github.com/StanGirard/quivr)<br>
-4. ⭐ Starred [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses)<br>
-5. ⭐ Starred [nushell/nushell](https://github.com/nushell/nushell)<br>
+1. ⭐ Starred [gpiozero/gpiozero](https://github.com/gpiozero/gpiozero)<br>
+2. ⭐ Starred [MichaIng/DietPi](https://github.com/MichaIng/DietPi)<br>
+3. ⭐ Starred [raspberrypi/linux](https://github.com/raspberrypi/linux)<br>
+4. ⭐ Starred [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)<br>
+5. ⭐ Starred [huggingface/candle](https://github.com/huggingface/candle)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 13th, 2023, 2:59:17 AM (GMT)
+Last Updated: Monday, August 14th, 2023, 2:12:44 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
