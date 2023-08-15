@@ -72,16 +72,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gpiozero/gpiozero](https://github.com/gpiozero/gpiozero)<br>
-2. ⭐ Starred [MichaIng/DietPi](https://github.com/MichaIng/DietPi)<br>
-3. ⭐ Starred [raspberrypi/linux](https://github.com/raspberrypi/linux)<br>
-4. ⭐ Starred [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)<br>
-5. ⭐ Starred [huggingface/candle](https://github.com/huggingface/candle)<br>
+1. ⭐ Starred [mikeroyal/Raspberry-Pi-Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide)<br>
+2. ⭐ Starred [gpiozero/gpiozero](https://github.com/gpiozero/gpiozero)<br>
+3. ⭐ Starred [MichaIng/DietPi](https://github.com/MichaIng/DietPi)<br>
+4. ⭐ Starred [raspberrypi/linux](https://github.com/raspberrypi/linux)<br>
+5. ⭐ Starred [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 14th, 2023, 3:00:11 AM (GMT)
+Last Updated: Tuesday, August 15th, 2023, 2:12:00 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
