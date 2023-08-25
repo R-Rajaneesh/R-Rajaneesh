@@ -72,16 +72,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tokio-rs/tokio](https://github.com/tokio-rs/tokio)<br>
-2. ⭐ Starred [minoca/os](https://github.com/minoca/os)<br>
-3. ⭐ Starred [EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide)<br>
-4. ⭐ Starred [mikeroyal/Raspberry-Pi-Guide](https://github.com/mikeroyal/Raspberry-Pi-Guide)<br>
-5. ⭐ Starred [gpiozero/gpiozero](https://github.com/gpiozero/gpiozero)<br>
+1. ⭐ Starred [anbox/anbox](https://github.com/anbox/anbox)<br>
+2. ⭐ Starred [notable/notable](https://github.com/notable/notable)<br>
+3. ⭐ Starred [tokio-rs/tokio](https://github.com/tokio-rs/tokio)<br>
+4. ⭐ Starred [minoca/os](https://github.com/minoca/os)<br>
+5. ⭐ Starred [EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 24th, 2023, 3:00:42 AM (GMT)
+Last Updated: Friday, August 25th, 2023, 2:14:07 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
