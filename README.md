@@ -72,16 +72,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [anbox/anbox](https://github.com/anbox/anbox)<br>
-2. ⭐ Starred [notable/notable](https://github.com/notable/notable)<br>
-3. ⭐ Starred [tokio-rs/tokio](https://github.com/tokio-rs/tokio)<br>
-4. ⭐ Starred [minoca/os](https://github.com/minoca/os)<br>
-5. ⭐ Starred [EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide)<br>
+1. ⭐ Starred [systemd/systemd](https://github.com/systemd/systemd)<br>
+2. ⭐ Starred [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)<br>
+3. ⭐ Starred [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)<br>
+4. ⭐ Starred [wasmerio/wasmer](https://github.com/wasmerio/wasmer)<br>
+5. ⭐ Starred [rossant/awesome-math](https://github.com/rossant/awesome-math)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 25th, 2023, 3:08:03 AM (GMT)
+Last Updated: Saturday, August 26th, 2023, 2:10:28 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
