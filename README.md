@@ -72,16 +72,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [systemd/systemd](https://github.com/systemd/systemd)<br>
-2. ⭐ Starred [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)<br>
-3. ⭐ Starred [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)<br>
-4. ⭐ Starred [wasmerio/wasmer](https://github.com/wasmerio/wasmer)<br>
-5. ⭐ Starred [rossant/awesome-math](https://github.com/rossant/awesome-math)<br>
+1. ⭐ Starred [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey)<br>
+2. ⭐ Starred [phil294/AHK_X11](https://github.com/phil294/AHK_X11)<br>
+3. ⭐ Starred [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain)<br>
+4. ⭐ Starred [raspibolt/raspibolt](https://github.com/raspibolt/raspibolt)<br>
+5. ⭐ Starred [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 26th, 2023, 3:11:41 AM (GMT)
+Last Updated: Sunday, August 27th, 2023, 2:14:24 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
