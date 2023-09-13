@@ -72,16 +72,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey)<br>
-2. ⭐ Starred [phil294/AHK_X11](https://github.com/phil294/AHK_X11)<br>
-3. ⭐ Starred [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain)<br>
-4. ⭐ Starred [raspibolt/raspibolt](https://github.com/raspibolt/raspibolt)<br>
-5. ⭐ Starred [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy)<br>
+1. ⭐ Starred [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif)<br>
+2. ⭐ Starred [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey)<br>
+3. ⭐ Starred [phil294/AHK_X11](https://github.com/phil294/AHK_X11)<br>
+4. ⭐ Starred [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain)<br>
+5. ⭐ Starred [raspibolt/raspibolt](https://github.com/raspibolt/raspibolt)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 12th, 2023, 3:06:35 AM (GMT)
+Last Updated: Wednesday, September 13th, 2023, 2:14:38 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
