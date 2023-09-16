@@ -72,16 +72,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif)<br>
-2. ⭐ Starred [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey)<br>
-3. ⭐ Starred [phil294/AHK_X11](https://github.com/phil294/AHK_X11)<br>
-4. ⭐ Starred [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain)<br>
-5. ⭐ Starred [raspibolt/raspibolt](https://github.com/raspibolt/raspibolt)<br>
+1. ⭐ Starred [fivdi/pigpio](https://github.com/fivdi/pigpio)<br>
+2. ⭐ Starred [fivdi/onoff](https://github.com/fivdi/onoff)<br>
+3. ⭐ Starred [rwaldron/johnny-five](https://github.com/rwaldron/johnny-five)<br>
+4. ⭐ Starred [TodePond/WhenWillProgrammersStopMakingDecisionsForOurSocietyAndJustLeaveUsAloneAlsoHackerNewsIsAVileWebsite](https://github.com/TodePond/WhenWillProgrammersStopMakingDecisionsForOurSocietyAndJustLeaveUsAloneAlsoHackerNewsIsAVileWebsite)<br>
+5. ⭐ Starred [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 15th, 2023, 3:10:32 AM (GMT)
+Last Updated: Saturday, September 16th, 2023, 2:11:41 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
