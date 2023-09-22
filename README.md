@@ -72,16 +72,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [R-Rajaneesh/node-rpio](https://github.com/R-Rajaneesh/node-rpio)<br>
-2. 🔱 Forked [R-Rajaneesh/node-rpio](https://github.com/R-Rajaneesh/node-rpio) from [jperkin/node-rpio](https://github.com/jperkin/node-rpio)<br>
-3. ⭐ Starred [fivdi/pigpio](https://github.com/fivdi/pigpio)<br>
-4. ⭐ Starred [fivdi/onoff](https://github.com/fivdi/onoff)<br>
-5. ⭐ Starred [rwaldron/johnny-five](https://github.com/rwaldron/johnny-five)<br>
+1. ⭐ Starred [WebAssembly/wabt](https://github.com/WebAssembly/wabt)<br>
+2. ⭐ Starred [tr1ckydev/spotifly](https://github.com/tr1ckydev/spotifly)<br>
+3. ⭐ Starred [denosaurs/deno_python](https://github.com/denosaurs/deno_python)<br>
+4. ⬆️ Pushed 1 commit(s) to [R-Rajaneesh/node-rpio](https://github.com/R-Rajaneesh/node-rpio)<br>
+5. 🔱 Forked [R-Rajaneesh/node-rpio](https://github.com/R-Rajaneesh/node-rpio) from [jperkin/node-rpio](https://github.com/jperkin/node-rpio)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 21st, 2023, 3:06:47 AM (GMT)
+Last Updated: Friday, September 22nd, 2023, 2:14:40 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
