@@ -72,16 +72,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [AndreaOrru/zen](https://github.com/AndreaOrru/zen)<br>
-2. ⭐ Starred [rafaelbreno/zig-os](https://github.com/rafaelbreno/zig-os)<br>
-3. ⭐ Starred [WebAssembly/wabt](https://github.com/WebAssembly/wabt)<br>
-4. ⭐ Starred [tr1ckydev/spotifly](https://github.com/tr1ckydev/spotifly)<br>
-5. ⭐ Starred [denosaurs/deno_python](https://github.com/denosaurs/deno_python)<br>
+1. ⭐ Starred [CascadeOS/CascadeOS](https://github.com/CascadeOS/CascadeOS)<br>
+2. ⭐ Starred [AndreaOrru/zen](https://github.com/AndreaOrru/zen)<br>
+3. ⭐ Starred [rafaelbreno/zig-os](https://github.com/rafaelbreno/zig-os)<br>
+4. ⭐ Starred [WebAssembly/wabt](https://github.com/WebAssembly/wabt)<br>
+5. ⭐ Starred [tr1ckydev/spotifly](https://github.com/tr1ckydev/spotifly)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 23rd, 2023, 3:13:15 AM (GMT)
+Last Updated: Sunday, September 24th, 2023, 2:16:00 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
