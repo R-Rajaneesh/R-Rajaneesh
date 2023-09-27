@@ -72,16 +72,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [CascadeOS/CascadeOS](https://github.com/CascadeOS/CascadeOS)<br>
-2. ⭐ Starred [AndreaOrru/zen](https://github.com/AndreaOrru/zen)<br>
-3. ⭐ Starred [rafaelbreno/zig-os](https://github.com/rafaelbreno/zig-os)<br>
-4. ⭐ Starred [WebAssembly/wabt](https://github.com/WebAssembly/wabt)<br>
-5. ⭐ Starred [tr1ckydev/spotifly](https://github.com/tr1ckydev/spotifly)<br>
+1. ⭐ Starred [charlottestick/SimpleOS](https://github.com/charlottestick/SimpleOS)<br>
+2. ⭐ Starred [ChadReacher/osdev](https://github.com/ChadReacher/osdev)<br>
+3. ⭐ Starred [noaether/naOS](https://github.com/noaether/naOS)<br>
+4. 🔱 Forked [R-Rajaneesh/Osdev-Notes](https://github.com/R-Rajaneesh/Osdev-Notes) from [dreamos82/Osdev-Notes](https://github.com/dreamos82/Osdev-Notes)<br>
+5. ⭐ Starred [leonardoms/DiyOS](https://github.com/leonardoms/DiyOS)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 26th, 2023, 3:12:33 AM (GMT)
+Last Updated: Wednesday, September 27th, 2023, 2:15:22 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
