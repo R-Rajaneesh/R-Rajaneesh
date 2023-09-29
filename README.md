@@ -72,16 +72,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [charlottestick/SimpleOS](https://github.com/charlottestick/SimpleOS)<br>
-2. ⭐ Starred [ChadReacher/osdev](https://github.com/ChadReacher/osdev)<br>
-3. ⭐ Starred [noaether/naOS](https://github.com/noaether/naOS)<br>
-4. 🔱 Forked [R-Rajaneesh/Osdev-Notes](https://github.com/R-Rajaneesh/Osdev-Notes) from [dreamos82/Osdev-Notes](https://github.com/dreamos82/Osdev-Notes)<br>
-5. ⭐ Starred [leonardoms/DiyOS](https://github.com/leonardoms/DiyOS)<br>
+1. ⭐ Starred [charmbracelet/gum](https://github.com/charmbracelet/gum)<br>
+2. ⭐ Starred [charlottestick/SimpleOS](https://github.com/charlottestick/SimpleOS)<br>
+3. ⭐ Starred [ChadReacher/osdev](https://github.com/ChadReacher/osdev)<br>
+4. ⭐ Starred [noaether/naOS](https://github.com/noaether/naOS)<br>
+5. 🔱 Forked [R-Rajaneesh/Osdev-Notes](https://github.com/R-Rajaneesh/Osdev-Notes) from [dreamos82/Osdev-Notes](https://github.com/dreamos82/Osdev-Notes)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 29th, 2023, 2:49:45 AM (GMT)
+Last Updated: Friday, September 29th, 2023, 2:56:32 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
