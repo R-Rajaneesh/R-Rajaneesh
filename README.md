@@ -72,16 +72,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [LukeShortCloud/winesapOS](https://github.com/LukeShortCloud/winesapOS)<br>
-2. ⭐ Starred [charmbracelet/gum](https://github.com/charmbracelet/gum)<br>
-3. ⭐ Starred [charlottestick/SimpleOS](https://github.com/charlottestick/SimpleOS)<br>
-4. ⭐ Starred [ChadReacher/osdev](https://github.com/ChadReacher/osdev)<br>
-5. ⭐ Starred [noaether/naOS](https://github.com/noaether/naOS)<br>
+1. ⭐ Starred [dreamos82/Osdev-Notes](https://github.com/dreamos82/Osdev-Notes)<br>
+2. ⭐ Starred [jstrieb/systems-programming-cheat-sheet](https://github.com/jstrieb/systems-programming-cheat-sheet)<br>
+3. ⭐ Starred [LukeShortCloud/winesapOS](https://github.com/LukeShortCloud/winesapOS)<br>
+4. ⭐ Starred [charmbracelet/gum](https://github.com/charmbracelet/gum)<br>
+5. ⭐ Starred [charlottestick/SimpleOS](https://github.com/charlottestick/SimpleOS)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 4th, 2023, 3:12:42 AM (GMT)
+Last Updated: Thursday, October 5th, 2023, 2:17:40 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
