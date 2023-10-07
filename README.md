@@ -72,16 +72,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dreamos82/Osdev-Notes](https://github.com/dreamos82/Osdev-Notes)<br>
-2. ⭐ Starred [jstrieb/systems-programming-cheat-sheet](https://github.com/jstrieb/systems-programming-cheat-sheet)<br>
-3. ⭐ Starred [LukeShortCloud/winesapOS](https://github.com/LukeShortCloud/winesapOS)<br>
-4. ⭐ Starred [charmbracelet/gum](https://github.com/charmbracelet/gum)<br>
-5. ⭐ Starred [charlottestick/SimpleOS](https://github.com/charlottestick/SimpleOS)<br>
+1. ✔️ Closed issue [#67](https://github.com/jamesgeorge007/github-activity-readme/issues/67) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)<br>
+2. ✔️ Closed issue [#67](https://github.com/jamesgeorge007/github-activity-readme/issues/67) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)<br>
+3. ⭐ Starred [dreamos82/Osdev-Notes](https://github.com/dreamos82/Osdev-Notes)<br>
+4. ⭐ Starred [jstrieb/systems-programming-cheat-sheet](https://github.com/jstrieb/systems-programming-cheat-sheet)<br>
+5. ⭐ Starred [LukeShortCloud/winesapOS](https://github.com/LukeShortCloud/winesapOS)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 6th, 2023, 3:11:07 AM (GMT)
+Last Updated: Saturday, October 7th, 2023, 2:13:56 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
