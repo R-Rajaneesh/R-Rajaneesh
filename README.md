@@ -72,16 +72,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [R-Rajaneesh/Mr.BookMark](https://github.com/R-Rajaneesh/Mr.BookMark)<br>
-2. ⬆️ Pushed 2 commit(s) to [R-Rajaneesh/Mr.BookMark](https://github.com/R-Rajaneesh/Mr.BookMark)<br>
-3. ⭐ Starred [ckt1031/DraconianBot](https://github.com/ckt1031/DraconianBot)<br>
-4. ⭐ Starred [atherosai/ui](https://github.com/atherosai/ui)<br>
-5. ⭐ Starred [cenoura/awesome-ads](https://github.com/cenoura/awesome-ads)<br>
+1. ⭐ Starred [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy)<br>
+2. ⭐ Starred [yeasy/blockchain_guide](https://github.com/yeasy/blockchain_guide)<br>
+3. ⬆️ Pushed 1 commit(s) to [R-Rajaneesh/Mr.BookMark](https://github.com/R-Rajaneesh/Mr.BookMark)<br>
+4. ⬆️ Pushed 2 commit(s) to [R-Rajaneesh/Mr.BookMark](https://github.com/R-Rajaneesh/Mr.BookMark)<br>
+5. ⭐ Starred [ckt1031/DraconianBot](https://github.com/ckt1031/DraconianBot)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 20th, 2023, 3:10:19 AM (GMT)
+Last Updated: Saturday, October 21st, 2023, 2:12:36 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
