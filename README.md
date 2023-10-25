@@ -72,16 +72,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [liabru/matter-js](https://github.com/liabru/matter-js)<br>
-2. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)<br>
-3. ⭐ Starred [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)<br>
-4. ⭐ Starred [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy)<br>
-5. ⭐ Starred [yeasy/blockchain_guide](https://github.com/yeasy/blockchain_guide)<br>
+1. ⭐ Starred [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)<br>
+2. ⭐ Starred [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)<br>
+3. ⭐ Starred [liabru/matter-js](https://github.com/liabru/matter-js)<br>
+4. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)<br>
+5. ⭐ Starred [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 24th, 2023, 3:12:58 AM (GMT)
+Last Updated: Wednesday, October 25th, 2023, 2:15:11 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
