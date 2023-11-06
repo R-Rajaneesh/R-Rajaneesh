@@ -72,16 +72,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)<br>
-2. ⭐ Starred [brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university)<br>
-3. ⭐ Starred [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)<br>
-4. ⭐ Starred [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)<br>
-5. ⭐ Starred [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)<br>
+1. ⭐ Starred [multitheftauto/mtasa-blue](https://github.com/multitheftauto/mtasa-blue)<br>
+2. ⭐ Starred [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)<br>
+3. ⭐ Starred [brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university)<br>
+4. ⭐ Starred [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)<br>
+5. ⭐ Starred [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 5th, 2023, 3:06:26 AM (GMT)
+Last Updated: Monday, November 6th, 2023, 2:19:59 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
