@@ -72,16 +72,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [autokey/autokey](https://github.com/autokey/autokey)<br>
-2. 📔 Created new repository [R-Rajaneesh/logistify](https://github.com/R-Rajaneesh/logistify)<br>
-3. ⭐ Starred [multitheftauto/mtasa-blue](https://github.com/multitheftauto/mtasa-blue)<br>
-4. ⭐ Starred [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)<br>
-5. ⭐ Starred [brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university)<br>
+1. ⭐ Starred [openai/openai-cookbook](https://github.com/openai/openai-cookbook)<br>
+2. ⭐ Starred [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions)<br>
+3. ⭐ Starred [autokey/autokey](https://github.com/autokey/autokey)<br>
+4. 📔 Created new repository [R-Rajaneesh/logistify](https://github.com/R-Rajaneesh/logistify)<br>
+5. ⭐ Starred [multitheftauto/mtasa-blue](https://github.com/multitheftauto/mtasa-blue)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 9th, 2023, 2:59:31 AM (GMT)
+Last Updated: Friday, November 10th, 2023, 2:17:51 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
