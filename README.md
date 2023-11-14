@@ -72,16 +72,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [openai/openai-cookbook](https://github.com/openai/openai-cookbook)<br>
-2. ⭐ Starred [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions)<br>
-3. ⭐ Starred [autokey/autokey](https://github.com/autokey/autokey)<br>
-4. 📔 Created new repository [R-Rajaneesh/logistify](https://github.com/R-Rajaneesh/logistify)<br>
-5. ⭐ Starred [multitheftauto/mtasa-blue](https://github.com/multitheftauto/mtasa-blue)<br>
+1. ⭐ Starred [felixrieseberg/windows-build-tools](https://github.com/felixrieseberg/windows-build-tools)<br>
+2. ⭐ Starred [enquirer/enquirer](https://github.com/enquirer/enquirer)<br>
+3. ⭐ Starred [voidcosmos/npkill](https://github.com/voidcosmos/npkill)<br>
+4. ⭐ Starred [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator)<br>
+5. ⭐ Starred [openai/openai-cookbook](https://github.com/openai/openai-cookbook)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 13th, 2023, 3:09:21 AM (GMT)
+Last Updated: Tuesday, November 14th, 2023, 2:18:17 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
