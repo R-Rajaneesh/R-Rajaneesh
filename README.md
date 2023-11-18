@@ -72,16 +72,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [felixrieseberg/windows-build-tools](https://github.com/felixrieseberg/windows-build-tools)<br>
-2. ⭐ Starred [enquirer/enquirer](https://github.com/enquirer/enquirer)<br>
-3. ⭐ Starred [voidcosmos/npkill](https://github.com/voidcosmos/npkill)<br>
-4. ⭐ Starred [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator)<br>
-5. ⭐ Starred [openai/openai-cookbook](https://github.com/openai/openai-cookbook)<br>
+1. ⭐ Starred [zloirock/core-js](https://github.com/zloirock/core-js)<br>
+2. ⭐ Starred [felixrieseberg/windows-build-tools](https://github.com/felixrieseberg/windows-build-tools)<br>
+3. ⭐ Starred [enquirer/enquirer](https://github.com/enquirer/enquirer)<br>
+4. ⭐ Starred [voidcosmos/npkill](https://github.com/voidcosmos/npkill)<br>
+5. ⭐ Starred [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 17th, 2023, 3:12:55 AM (GMT)
+Last Updated: Saturday, November 18th, 2023, 2:19:36 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
