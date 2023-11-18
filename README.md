@@ -51,10 +51,6 @@
 
 ---
 
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=316jk2ojvzgyfho4a2y5obf7du74&width=600&count=10&unique=true)
-
----
-
 ## Trophies
 
 <p align="left"> <a><img src="https://github-profile-trophy.vercel.app/?username=R-Rajaneesh&no-bg=true&no-frame=true" alt="rajaneesh's github trophies" /></a> </p>
