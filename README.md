@@ -68,16 +68,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [meew0/discord-bot-best-practices](https://github.com/meew0/discord-bot-best-practices)<br>
-2. ⭐ Starred [google/mathsteps](https://github.com/google/mathsteps)<br>
-3. ⭐ Starred [coreybutler/node-windows](https://github.com/coreybutler/node-windows)<br>
-4. ⭐ Starred [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb)<br>
-5. ⭐ Starred [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)<br>
+1. ⭐ Starred [zyrouge/Aurora-Bot](https://github.com/zyrouge/Aurora-Bot)<br>
+2. ⭐ Starred [meew0/discord-bot-best-practices](https://github.com/meew0/discord-bot-best-practices)<br>
+3. ⭐ Starred [google/mathsteps](https://github.com/google/mathsteps)<br>
+4. ⭐ Starred [coreybutler/node-windows](https://github.com/coreybutler/node-windows)<br>
+5. ⭐ Starred [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 22nd, 2023, 3:07:41 AM (GMT)
+Last Updated: Thursday, November 23rd, 2023, 2:20:56 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
