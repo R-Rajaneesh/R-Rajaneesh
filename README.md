@@ -68,16 +68,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [zyrouge/Aurora-Bot](https://github.com/zyrouge/Aurora-Bot)<br>
-2. ⭐ Starred [meew0/discord-bot-best-practices](https://github.com/meew0/discord-bot-best-practices)<br>
-3. ⭐ Starred [google/mathsteps](https://github.com/google/mathsteps)<br>
-4. ⭐ Starred [coreybutler/node-windows](https://github.com/coreybutler/node-windows)<br>
-5. ⭐ Starred [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb)<br>
+1. ⭐ Starred [tldraw/tldraw](https://github.com/tldraw/tldraw)<br>
+2. ⭐ Starred [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)<br>
+3. ⭐ Starred [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books)<br>
+4. ⭐ Starred [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)<br>
+5. ⭐ Starred [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 23rd, 2023, 3:11:53 AM (GMT)
+Last Updated: Friday, November 24th, 2023, 2:19:08 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
