@@ -68,16 +68,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tldraw/tldraw](https://github.com/tldraw/tldraw)<br>
-2. ⭐ Starred [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)<br>
-3. ⭐ Starred [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books)<br>
-4. ⭐ Starred [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)<br>
-5. ⭐ Starred [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)<br>
+1. ⭐ Starred [s0md3v/AwesomeXSS](https://github.com/s0md3v/AwesomeXSS)<br>
+2. ⭐ Starred [tldraw/tldraw](https://github.com/tldraw/tldraw)<br>
+3. ⭐ Starred [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)<br>
+4. ⭐ Starred [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books)<br>
+5. ⭐ Starred [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 24th, 2023, 2:54:57 AM (GMT)
+Last Updated: Friday, November 24th, 2023, 3:08:10 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
