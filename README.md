@@ -68,16 +68,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)<br>
-2. ⭐ Starred [s0md3v/AwesomeXSS](https://github.com/s0md3v/AwesomeXSS)<br>
-3. ⭐ Starred [tldraw/tldraw](https://github.com/tldraw/tldraw)<br>
-4. ⭐ Starred [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)<br>
-5. ⭐ Starred [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books)<br>
+1. ⭐ Starred [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)<br>
+2. ⭐ Starred [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources)<br>
+3. ⭐ Starred [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)<br>
+4. ⭐ Starred [wasp-lang/wasp](https://github.com/wasp-lang/wasp)<br>
+5. ⭐ Starred [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 29th, 2023, 3:13:39 AM (GMT)
+Last Updated: Thursday, November 30th, 2023, 2:21:43 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
