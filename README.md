@@ -68,16 +68,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code)<br>
-2. ⭐ Starred [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)<br>
-3. ⭐ Starred [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources)<br>
-4. ⭐ Starred [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)<br>
-5. ⭐ Starred [wasp-lang/wasp](https://github.com/wasp-lang/wasp)<br>
+1. ⭐ Starred [compuphase/pawn](https://github.com/compuphase/pawn)<br>
+2. ⭐ Starred [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code)<br>
+3. ⭐ Starred [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)<br>
+4. ⭐ Starred [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources)<br>
+5. ⭐ Starred [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 2nd, 2023, 2:59:54 AM (GMT)
+Last Updated: Sunday, December 3rd, 2023, 2:22:25 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
