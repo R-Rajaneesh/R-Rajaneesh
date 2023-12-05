@@ -68,16 +68,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [compuphase/pawn](https://github.com/compuphase/pawn)<br>
-2. ⭐ Starred [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code)<br>
-3. ⭐ Starred [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)<br>
-4. ⭐ Starred [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources)<br>
-5. ⭐ Starred [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)<br>
+1. ⭐ Starred [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)<br>
+2. ⭐ Starred [compuphase/pawn](https://github.com/compuphase/pawn)<br>
+3. ⭐ Starred [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code)<br>
+4. ⭐ Starred [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)<br>
+5. ⭐ Starred [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 4th, 2023, 2:59:44 AM (GMT)
+Last Updated: Tuesday, December 5th, 2023, 2:23:23 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
