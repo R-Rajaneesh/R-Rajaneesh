@@ -68,16 +68,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gkbrk/slowloris](https://github.com/gkbrk/slowloris)<br>
-2. ⭐ Starred [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)<br>
-3. ⭐ Starred [compuphase/pawn](https://github.com/compuphase/pawn)<br>
-4. ⭐ Starred [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code)<br>
-5. ⭐ Starred [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)<br>
+1. ⭐ Starred [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)<br>
+2. ⭐ Starred [micromata/awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning)<br>
+3. ⭐ Starred [gkbrk/slowloris](https://github.com/gkbrk/slowloris)<br>
+4. ⭐ Starred [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)<br>
+5. ⭐ Starred [compuphase/pawn](https://github.com/compuphase/pawn)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 10th, 2023, 3:00:02 AM (GMT)
+Last Updated: Monday, December 11th, 2023, 2:22:57 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
