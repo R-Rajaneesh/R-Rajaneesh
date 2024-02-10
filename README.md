@@ -68,16 +68,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)<br>
-2. ⬆️ Pushed 1 commit(s) to [R-Rajaneesh/The-Lost-Battalion](https://github.com/R-Rajaneesh/The-Lost-Battalion)<br>
+1. ⭐ Starred [KRTirtho/spotube](https://github.com/KRTirtho/spotube)<br>
+2. ⭐ Starred [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)<br>
 3. ⬆️ Pushed 1 commit(s) to [R-Rajaneesh/The-Lost-Battalion](https://github.com/R-Rajaneesh/The-Lost-Battalion)<br>
-4. ⭐ Starred [zed-industries/zed](https://github.com/zed-industries/zed)<br>
-5. ⭐ Starred [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)<br>
+4. ⬆️ Pushed 1 commit(s) to [R-Rajaneesh/The-Lost-Battalion](https://github.com/R-Rajaneesh/The-Lost-Battalion)<br>
+5. ⭐ Starred [zed-industries/zed](https://github.com/zed-industries/zed)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 9th, 2024, 3:07:27 AM (GMT)
+Last Updated: Saturday, February 10th, 2024, 2:11:46 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
