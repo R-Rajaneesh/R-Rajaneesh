@@ -68,16 +68,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tursodatabase/libsql-js](https://github.com/tursodatabase/libsql-js)<br>
-2. ⭐ Starred [mmomtchev/magickwand.js](https://github.com/mmomtchev/magickwand.js)<br>
-3. ⭐ Starred [nanobyte-dev/nanobyte_os](https://github.com/nanobyte-dev/nanobyte_os)<br>
-4. ⭐ Starred [nelipuu/zbind](https://github.com/nelipuu/zbind)<br>
-5. ⭐ Starred [KRTirtho/spotube](https://github.com/KRTirtho/spotube)<br>
+1. ⭐ Starred [learn-anything/books](https://github.com/learn-anything/books)<br>
+2. ⭐ Starred [charmbracelet/glow](https://github.com/charmbracelet/glow)<br>
+3. ⭐ Starred [tursodatabase/libsql-js](https://github.com/tursodatabase/libsql-js)<br>
+4. ⭐ Starred [mmomtchev/magickwand.js](https://github.com/mmomtchev/magickwand.js)<br>
+5. ⭐ Starred [nanobyte-dev/nanobyte_os](https://github.com/nanobyte-dev/nanobyte_os)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 17th, 2024, 3:00:26 AM (GMT)
+Last Updated: Sunday, February 18th, 2024, 2:16:06 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
