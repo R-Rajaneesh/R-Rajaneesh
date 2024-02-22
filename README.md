@@ -68,16 +68,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ocornut/imgui](https://github.com/ocornut/imgui)<br>
-2. ⭐ Starred [levii-pires/bunsai](https://github.com/levii-pires/bunsai)<br>
-3. ⭐ Starred [devsgnr/breadroll](https://github.com/devsgnr/breadroll)<br>
-4. ⭐ Starred [learn-anything/books](https://github.com/learn-anything/books)<br>
-5. ⭐ Starred [charmbracelet/glow](https://github.com/charmbracelet/glow)<br>
+1. ⭐ Starred [charlax/professional-programming](https://github.com/charlax/professional-programming)<br>
+2. ⭐ Starred [ocornut/imgui](https://github.com/ocornut/imgui)<br>
+3. ⭐ Starred [levii-pires/bunsai](https://github.com/levii-pires/bunsai)<br>
+4. ⭐ Starred [devsgnr/breadroll](https://github.com/devsgnr/breadroll)<br>
+5. ⭐ Starred [learn-anything/books](https://github.com/learn-anything/books)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 21st, 2024, 3:08:01 AM (GMT)
+Last Updated: Thursday, February 22nd, 2024, 2:13:43 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
