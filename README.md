@@ -68,16 +68,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS)<br>
-2. ⭐ Starred [langfuse/langfuse](https://github.com/langfuse/langfuse)<br>
-3. ⭐ Starred [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter)<br>
-4. ⬆️ Pushed 204 commit(s) to [R-Rajaneesh/bun](https://github.com/R-Rajaneesh/bun)<br>
-5. ⭐ Starred [peacefulotter/minecraft-server](https://github.com/peacefulotter/minecraft-server)<br>
+1. ⭐ Starred [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu)<br>
+2. ⭐ Starred [LukeMathWalker/zero-to-production](https://github.com/LukeMathWalker/zero-to-production)<br>
+3. ⭐ Starred [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)<br>
+4. ⭐ Starred [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)<br>
+5. ⭐ Starred [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 30th, 2024, 2:53:40 AM (GMT)
+Last Updated: Tuesday, April 30th, 2024, 3:05:49 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
