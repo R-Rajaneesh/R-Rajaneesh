@@ -68,16 +68,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu)<br>
-2. ⭐ Starred [LukeMathWalker/zero-to-production](https://github.com/LukeMathWalker/zero-to-production)<br>
-3. ⭐ Starred [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)<br>
-4. ⭐ Starred [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)<br>
-5. ⭐ Starred [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora)<br>
+1. ⭐ Starred [tr1ckydev/webview-bun](https://github.com/tr1ckydev/webview-bun)<br>
+2. ⭐ Starred [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu)<br>
+3. ⭐ Starred [LukeMathWalker/zero-to-production](https://github.com/LukeMathWalker/zero-to-production)<br>
+4. ⭐ Starred [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)<br>
+5. ⭐ Starred [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 3rd, 2024, 3:14:45 AM (GMT)
+Last Updated: Saturday, May 4th, 2024, 2:17:08 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
