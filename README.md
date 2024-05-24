@@ -68,16 +68,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rt64/rt64](https://github.com/rt64/rt64)<br>
-2. ⭐ Starred [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)<br>
-3. ⭐ Starred [tr1ckydev/webview-bun](https://github.com/tr1ckydev/webview-bun)<br>
-4. ⭐ Starred [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu)<br>
-5. ⭐ Starred [LukeMathWalker/zero-to-production](https://github.com/LukeMathWalker/zero-to-production)<br>
+1. ⭐ Starred [ventoy/Ventoy](https://github.com/ventoy/Ventoy)<br>
+2. ⭐ Starred [rt64/rt64](https://github.com/rt64/rt64)<br>
+3. ⭐ Starred [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)<br>
+4. ⭐ Starred [tr1ckydev/webview-bun](https://github.com/tr1ckydev/webview-bun)<br>
+5. ⭐ Starred [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 23rd, 2024, 3:00:01 AM (GMT)
+Last Updated: Friday, May 24th, 2024, 2:23:25 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
