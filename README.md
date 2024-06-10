@@ -68,16 +68,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Didas-git/lilybird](https://github.com/Didas-git/lilybird)<br>
-2. ⭐ Starred [pritamzope/OS](https://github.com/pritamzope/OS)<br>
-3. ⭐ Starred [ventoy/Ventoy](https://github.com/ventoy/Ventoy)<br>
-4. ⭐ Starred [rt64/rt64](https://github.com/rt64/rt64)<br>
-5. ⭐ Starred [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)<br>
+1. ⭐ Starred [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord)<br>
+2. ⭐ Starred [discord/discord-open-source](https://github.com/discord/discord-open-source)<br>
+3. ⭐ Starred [Vendicated/Vencord](https://github.com/Vendicated/Vencord)<br>
+4. ⭐ Starred [iCrawl/discord-vscode](https://github.com/iCrawl/discord-vscode)<br>
+5. ⭐ Starred [discordjs/discord.js](https://github.com/discordjs/discord.js)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 9th, 2024, 3:07:50 AM (GMT)
+Last Updated: Monday, June 10th, 2024, 2:28:56 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
