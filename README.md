@@ -68,16 +68,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jianzhnie/awesome-instruction-datasets](https://github.com/jianzhnie/awesome-instruction-datasets)<br>
-2. ⭐ Starred [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord)<br>
-3. ⭐ Starred [discord/discord-open-source](https://github.com/discord/discord-open-source)<br>
-4. ⭐ Starred [Vendicated/Vencord](https://github.com/Vendicated/Vencord)<br>
-5. ⭐ Starred [iCrawl/discord-vscode](https://github.com/iCrawl/discord-vscode)<br>
+1. ⭐ Starred [gradio-app/gradio](https://github.com/gradio-app/gradio)<br>
+2. ⭐ Starred [jianzhnie/awesome-instruction-datasets](https://github.com/jianzhnie/awesome-instruction-datasets)<br>
+3. ⭐ Starred [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord)<br>
+4. ⭐ Starred [discord/discord-open-source](https://github.com/discord/discord-open-source)<br>
+5. ⭐ Starred [Vendicated/Vencord](https://github.com/Vendicated/Vencord)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 12th, 2024, 3:16:39 AM (GMT)
+Last Updated: Thursday, June 13th, 2024, 2:26:43 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
