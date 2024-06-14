@@ -68,16 +68,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gradio-app/gradio](https://github.com/gradio-app/gradio)<br>
-2. ⭐ Starred [jianzhnie/awesome-instruction-datasets](https://github.com/jianzhnie/awesome-instruction-datasets)<br>
-3. ⭐ Starred [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord)<br>
-4. ⭐ Starred [discord/discord-open-source](https://github.com/discord/discord-open-source)<br>
-5. ⭐ Starred [Vendicated/Vencord](https://github.com/Vendicated/Vencord)<br>
+1. ⭐ Starred [tr1ckydev/spotifly](https://github.com/tr1ckydev/spotifly)<br>
+2. ⭐ Starred [axios/axios](https://github.com/axios/axios)<br>
+3. ⭐ Starred [lau1944/bunrest](https://github.com/lau1944/bunrest)<br>
+4. ⭐ Starred [gradio-app/gradio](https://github.com/gradio-app/gradio)<br>
+5. ⭐ Starred [jianzhnie/awesome-instruction-datasets](https://github.com/jianzhnie/awesome-instruction-datasets)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 13th, 2024, 3:14:39 AM (GMT)
+Last Updated: Friday, June 14th, 2024, 2:27:39 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
