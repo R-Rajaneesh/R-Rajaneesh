@@ -68,16 +68,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tr1ckydev/spotifly](https://github.com/tr1ckydev/spotifly)<br>
-2. ⭐ Starred [axios/axios](https://github.com/axios/axios)<br>
-3. ⭐ Starred [lau1944/bunrest](https://github.com/lau1944/bunrest)<br>
-4. ⭐ Starred [gradio-app/gradio](https://github.com/gradio-app/gradio)<br>
-5. ⭐ Starred [jianzhnie/awesome-instruction-datasets](https://github.com/jianzhnie/awesome-instruction-datasets)<br>
+1. ⭐ Starred [roboflow/supervision](https://github.com/roboflow/supervision)<br>
+2. ⭐ Starred [openrecall/openrecall](https://github.com/openrecall/openrecall)<br>
+3. ⭐ Starred [tr1ckydev/spotifly](https://github.com/tr1ckydev/spotifly)<br>
+4. ⭐ Starred [axios/axios](https://github.com/axios/axios)<br>
+5. ⭐ Starred [lau1944/bunrest](https://github.com/lau1944/bunrest)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 14th, 2024, 3:15:39 AM (GMT)
+Last Updated: Saturday, June 15th, 2024, 2:25:37 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
