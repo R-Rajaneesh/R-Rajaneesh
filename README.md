@@ -68,16 +68,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [roboflow/supervision](https://github.com/roboflow/supervision)<br>
-2. ⭐ Starred [openrecall/openrecall](https://github.com/openrecall/openrecall)<br>
-3. ⭐ Starred [tr1ckydev/spotifly](https://github.com/tr1ckydev/spotifly)<br>
-4. ⭐ Starred [axios/axios](https://github.com/axios/axios)<br>
-5. ⭐ Starred [lau1944/bunrest](https://github.com/lau1944/bunrest)<br>
+1. ⭐ Starred [zigcc/awesome-zig](https://github.com/zigcc/awesome-zig)<br>
+2. ⭐ Starred [roboflow/supervision](https://github.com/roboflow/supervision)<br>
+3. ⭐ Starred [openrecall/openrecall](https://github.com/openrecall/openrecall)<br>
+4. ⭐ Starred [tr1ckydev/spotifly](https://github.com/tr1ckydev/spotifly)<br>
+5. ⭐ Starred [axios/axios](https://github.com/axios/axios)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 16th, 2024, 2:54:29 AM (GMT)
+Last Updated: Sunday, June 16th, 2024, 3:08:28 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
