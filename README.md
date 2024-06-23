@@ -68,16 +68,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nyx-discord/nyx](https://github.com/nyx-discord/nyx)<br>
-2. ⭐ Starred [zigcc/awesome-zig](https://github.com/zigcc/awesome-zig)<br>
-3. ⭐ Starred [roboflow/supervision](https://github.com/roboflow/supervision)<br>
-4. ⭐ Starred [openrecall/openrecall](https://github.com/openrecall/openrecall)<br>
-5. ⭐ Starred [tr1ckydev/spotifly](https://github.com/tr1ckydev/spotifly)<br>
+1. ⭐ Starred [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)<br>
+2. ⭐ Starred [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern)<br>
+3. ⭐ Starred [nyx-discord/nyx](https://github.com/nyx-discord/nyx)<br>
+4. ⭐ Starred [zigcc/awesome-zig](https://github.com/zigcc/awesome-zig)<br>
+5. ⭐ Starred [roboflow/supervision](https://github.com/roboflow/supervision)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 22nd, 2024, 3:08:44 AM (GMT)
+Last Updated: Sunday, June 23rd, 2024, 2:28:01 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
