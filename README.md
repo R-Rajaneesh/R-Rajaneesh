@@ -68,16 +68,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)<br>
-2. ⭐ Starred [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern)<br>
-3. ⭐ Starred [nyx-discord/nyx](https://github.com/nyx-discord/nyx)<br>
-4. ⭐ Starred [zigcc/awesome-zig](https://github.com/zigcc/awesome-zig)<br>
-5. ⭐ Starred [roboflow/supervision](https://github.com/roboflow/supervision)<br>
+1. ⭐ Starred [wobsoriano/bunbot](https://github.com/wobsoriano/bunbot)<br>
+2. ⭐ Starred [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun)<br>
+3. ⭐ Starred [megadose/OnionSearch](https://github.com/megadose/OnionSearch)<br>
+4. ⭐ Starred [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)<br>
+5. ⭐ Starred [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 23rd, 2024, 3:17:08 AM (GMT)
+Last Updated: Monday, June 24th, 2024, 2:28:20 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
