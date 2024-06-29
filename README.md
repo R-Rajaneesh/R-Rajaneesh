@@ -68,16 +68,16 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)<br>
-2. ⭐ Starred [wobsoriano/bunbot](https://github.com/wobsoriano/bunbot)<br>
-3. ⭐ Starred [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun)<br>
-4. ⭐ Starred [megadose/OnionSearch](https://github.com/megadose/OnionSearch)<br>
-5. ⭐ Starred [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)<br>
+1. ⭐ Starred [Jolg42/awesome-typography](https://github.com/Jolg42/awesome-typography)<br>
+2. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)<br>
+3. ⭐ Starred [wobsoriano/bunbot](https://github.com/wobsoriano/bunbot)<br>
+4. ⭐ Starred [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun)<br>
+5. ⭐ Starred [megadose/OnionSearch](https://github.com/megadose/OnionSearch)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 28th, 2024, 3:00:00 AM (GMT)
+Last Updated: Saturday, June 29th, 2024, 2:25:47 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
